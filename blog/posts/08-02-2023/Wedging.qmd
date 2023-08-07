@@ -1,0 +1,22 @@
+---
+title: Wedging Pattern
+date: 08-02-2023
+filters:
+   - lightbox
+lightbox: auto
+---
+
+[David Ryan](https://twitter.com/dryan310), 3 time U.S Investing Champion, has shared numerous examples of wedging on IBD Live. In a wedge, stocks are typically in a downtrend. In this pattern, prices are showing lower highs and lower lows. This indicates a lack of upward momentum and usually precedes further weakness.
+
+### Characteristics of Wedging Stocks
+
+▪ Slow moves up, quick moves down  
+▪ Wedges rarely make new highs  
+▪ Volume is often below average  
+▪ Lower highs and lower lows  
+
+![](wedging-1.png){height="500"}
+
+![](wedging-2.png){height="500"}
+
+![](wedging-3.png){height="500"}

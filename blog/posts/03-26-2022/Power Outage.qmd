@@ -1,0 +1,24 @@
+---
+title: Power Outage - A Power Trend Flipped on It's Head
+date: 02-25-2022
+filters:
+   - lightbox
+lightbox: auto
+---
+
+Flip the [Power Trend](https://johnmuchow.github.io/technical-analysis/posts/05-10-2020/Power-Trend.html) on its head and we end up with...a Power Outage ⚡️ 
+
+Whereas a [Power Trend](https://www.tradingview.com/script/CzyVIdMM-Power-Trend-Pro-Spot-Powerful-Uptrends/) signals a powerful uptrend, a Power Outage highlights a strong downtrend. This concept was created with [David Ryan](https://twitter.com/dryan310), 3 time U.S Investing Champion 1985, 1986, 1987 and Portfolio Manager at William O'Neil & Co.
+
+### QQQ
+![](power-trend-1.jpg){height="500"}
+
+### Nasdaq Composite
+![](power-trend-2.jpg){height="500"}
+
+### S&P 500
+![](power-trend-3.jpg){height="500"}
+
+### TSLA
+![](power-trend-4.jpg){height="500"}
+

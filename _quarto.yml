@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: docs
+
+ipynb-filters: 
+  - quarto_filter.py
+
+exeucte:
+  eval: false
+
+website:
+  title: "John Muchow - Portfolio"
+  image: quarto.png
+  favicon: favicon.ico
+  open-graph: true
+  twitter-card:
+     creator: "@JohnMuchow"
+  site-url: ""
+  description: "Software projects and technical publications from John Muchow, Principal Software Engineer."
+  repo-url: https://github.com/johnmuchow/portflio
+  repo-branch: master
+  navbar:
+    title: false
+    background: dark
+    pinned: false
+    collapse: false
+    left:
+    - text: Home
+      href: index.qmd
+    - text: Blog
+      file: blog/blog.qmd
+    - text: Projects
+      file: projects/projects.qmd
+    - text: DevRel
+      file: devrel/devrel.qmd
+    - text: Books-Articles
+      file: books-articles/books-articles.qmd
+    - text: About
+      file: about/about.qmd
+    right:
+      # - icon: rss
+      #   href: index.xml
+      - icon: linkedin
+        href: https://www.linkedin.com/in/johnmuchow/
+      - icon: twitter
+        href: https://twitter.com/JohnMuchow
+      - icon: github
+        href: https://github.com/johnmuchow
+
+  page-footer:
+      background: dark
+      left: "[Release Notes v1.0](/release_notes.html)"
+      right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/johnmuchow/
+      - icon: twitter
+        href: https://twitter.com/JohnMuchow
+      - icon: github
+        href: https://github.com/johnmuchow
+      # - icon: rss
+      #   href: index.xml
+
+format:
+  html:
+    theme: [solar, custom.scss]
+    css:
+      - styles.css
+    toc: true
+    linkcolor: "#3C7AB5"
+
+#slate, superhero, 

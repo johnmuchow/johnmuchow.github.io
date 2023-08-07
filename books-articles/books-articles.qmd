@@ -1,0 +1,175 @@
+---
+title: '<i class="bi bi-pencil-square"></i> Writing'
+description: "I've been writing and publishing developer-centric content since 1998. Following is a partial list of articles, books and related content."
+image: ""
+sidebar: false
+---
+
+## Books / Publications
+
+::: {.panel-tabset}
+## Core J2ME
+
+Core J2ME was published in 2000. It was one of the first books that focused on mobile app development, specifically [J2ME](https://en.wikipedia.org/wiki/Java_Platform) , a platform designed to write portable code for mobile devices (phones and personal digital assistants) as well as embedded devices (micro-controllers, sensors, gateways and TV set-top boxes).
+
+The book was a best-seller on Amazon in the mobile development category and was published in five languages.
+
+<div style="width:200px; height:300px">
+[![](https://m.media-amazon.com/images/I/41MKF3GSSYL._SX356_BO1,204,203,200_.jpg)](https://a.co/d/iFvpr8W "Core J2ME")
+</div>
+
+## PC Magazine
+
+PC Magazine published the article **_Inside JavaBeans_** on October 6, 1998. This technical article focused on the JavaBeans API, a model for creating reusable software components with Java.
+
+[PC Magazine, Oct 6, 1998 - Volume 17, No. 17](https://books.google.com/books?id=TodvBDXmM_oC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
+<div style="width:200px; height:300px">
+[![](pcmag.png)](https://books.google.com/books?id=TodvBDXmM_oC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false "Inside JavaBeans")
+</div>
+
+
+## IBM developerWorks
+
+I wrote a long-running series of articles over the course of X years for the now defunct, IBM developerWorks. I have the titles of the articles and the Wayback Machines, however, given the website required a login to read articles, the content is no longer available. With that said, some content (as of 2023) was still available on the Internet Archive Wayback Machine. In these instances, there will be a Wayback Machine to the archived content.
+
+Following are summaries of all the articles I published:
+
+---
+
+<h5 class="text-success">Building Google Gadgets, Part 1: Fundamentals of Google gadgets</h5>
+In this new Web development series, learn how to develop Google gadgets. [Wayback Machine](https://web.archive.org/web/20101101013339/http://www.ibm.com/developerworks/web/tutorials/wa-google1/authors.html)
+
+---
+
+<h5 class="text-success">Building Google Gadgets, Part 2: Working with the user interface</h5>
+Part 2 of the Building Google gadgets series introduces the advanced features of gadgets. [Wayback Machine](https://web.archive.org/web/20111210070023/http://www.ibm.com/developerworks/web/tutorials/wa-google2/authors.html)
+
+---
+
+<h5 class="text-success">Navigating the file system on a mobile device</h5>
+This tutorial goes through the steps to build a simple file and directory explorer application. It includes moving through a directory hierarchy, viewing file permissions, and opening and reading a file's contents. [Wayback Machine](https://web.archive.org/web/20100918011552/http://www.ibm.com/developerworks/java/tutorials/wi-navigate/)
+
+---
+
+<h5 class="text-success">Work with sprites in J2ME</h5>
+This tutorial presents the basic principles for working with both animated and nonanimated sprites. [Wayback Machine](https://web.archive.org/web/20111228204156/http://www.ibm.com/developerworks/java/tutorials/wi-sprites/authors.html)
+
+---
+
+<h5 class="text-success">Encrypt data within mobile apps</h5>
+This tutorial provides an overview of how to encrypt application-related data in a Java 2 Micro Edition (J2ME) application (MIDlet). [Wayback Machine](https://web.archive.org/web/20110326223531/http://www.ibm.com/developerworks/java/tutorials/wi-encrypt/authors.html)
+
+---
+
+<h5 class="text-success">J2ME 101, Part 1: Introduction to MIDP's high-level user interface</h5>
+In this tutorial you will learn about the essential components of J2ME, with a primary focus on MIDP. [Wayback Machine](https://web.archive.org/web/20100902195743/http://www.ibm.com/developerworks/java/tutorials/j-j2me1/)
+
+---
+
+<h5 class="text-success">J2ME 101, Part 2: Introduction to MIDP's low-level UI</h5>
+In this second tutorial we'll walk through the basics of creating and working with the Canvas and Graphics classes. [Wayback Machine](https://web.archive.org/web/20110824035827/http://www.ibm.com/developerworks/java/tutorials/j-j2me2/index.html)
+
+---
+
+<h5 class="text-success">J2ME 101, Part 3: [Inside the Record Management System](</h5>
+In this article we cover the basics of storing information in non-volatile memory, using a storage system called the Record Management System (RMS). [Wayback Machine](https://web.archive.org/web/20100611043316/http://www.ibm.com/developerworks/library/j-j2me3/index.html)
+
+---
+
+<h5 class="text-success">J2ME 101, Part 4: The Generic Connection Framework</h5>
+In this final installment, we discuss the Generic Connection Framework (GCF), which provides an extensible, generic I/O framework for resource constrained devices. [Wayback Machine](https://web.archive.org/web/20060415202940/http://www-128.ibm.com/developerworks/library/j-j2me4/)
+
+---
+
+<h5 class="text-success">Threads and Networking in J2ME</h5>
+Learn how to use threads in MIDlets to communicate over a network connection.
+[Wayback Machine](https://web.archive.org/web/20111022040852/http://www.ibm.com/developerworks/java/tutorials/wi-threads/)
+
+---
+
+<h5 class="text-success">MIDlet development with the Wireless Toolkit</h5>
+The Wireless Toolkit is an integrated development environment (IDE) for creating Java 2 Platform, Micro Edition (J2ME) applications, commonly referred to as MIDlets.
+[Wayback Machine](https://web.archive.org/web/20110128184435/http://www.ibm.com/developerworks/java/tutorials/wi-kit/)
+
+<h5 class="text-success">MIDlet music: Add sound with WTK</h5>
+Thanks to more enhanced sound support in Mobile Information Device Protocol (MIDP) 2.0, you can now create Java-based wireless applications that offer a range of sounds, from simple tones to playing WAV files.
+[Wayback Machine](https://web.archive.org/web/20110822165926/http://www.ibm.com/developerworks/java/tutorials/wi-audio/index.html)
+
+---
+
+<h5 class="text-success">MIDlet development with J2ME and MIDP</h5>
+This tutorials focuses on application development for mobile devices using an application programming interface (API) known as the Mobile Information Device Profile (MIDP). http://[Wayback Machine](http://www.carfield.com.hk/document/java/tutorial/J2ME/j2me_guide.pdf)
+2003
+
+---
+
+<h5 class="text-success">Downloading images in J2ME</h5>
+This tutorial demonstrates how to download and display images with J2ME (Java 2 Micro Edition) and the Mobile Information Device Profile (MIDP). [Wayback Machine](https://web.archive.org/web/20100919005610/http://www.ibm.com/developerworks/java/tutorials/wi-pdaimages/authors.html)
+
+---
+
+<h5 class="text-success">Implementing Push technology with J2ME and MIDP</h5>
+This tutorial will walk through the basics of using Push technology with MIDP 2.0, including development of a MIDlet that will be activated based on an incoming SMS message (Simple Message Service). [Wayback Machine](https://web.archive.org/web/20130118055611/http://www.ibm.com:80/developerworks/java/tutorials/wi-midpreg/index.html)
+
+## JBuilder
+
+[JBuilder](https://en.wikipedia.org/wiki/JBuilder) was an integrated development environment created by [Borland](https://en.wikipedia.org/wiki/Borland), to build Java applications. It was originally released in the late 90's. JBuilder was purchased by [Embarcadero Technologies](https://www.embarcadero.com) in 2008. 
+
+I wrote the following technical articles for the JBuilder newsletter:
+
+--- May 1998 -- Distributed computing using [RMI](https://en.wikipedia.org/wiki/Java_remote_method_invocation) (remote method invocation)  
+--- Dec 1997 -- Comparing JBuilder and IBM [VisualAge](https://en.wikipedia.org/wiki/VisualAge)  
+--- Oct 1997 -- What’s behind those wizards? Part 1  
+--- Nov 1997 -- What’s behind those wizards? Part 2  
+--- Sep 1997 -- Creating a [Castanet](https://web.mit.edu/outland/share/lib/castanet/tuner/lib/doc/introducing/introducing.html#:~:text=Castanet%20channels%20are%20multi%2Dplatform,network%20bandwidth%20and%20disk%20space) channel
+
+--- 
+
+I have the original articles and images. If time allows, I'll recreate the documents and post the entire article contents.
+
+## Developer.com
+
+#### [The Basics of J2ME](https://www.developer.com/mobile/java-mobile/the-basics-of-j2me/)
+- Java Editions
+- Why J2ME?
+- Configurations
+- Profiles
+- Java Virtual Machines
+- Big Picture View of the Architecture
+- Compatibility between Java Editions
+- Putting all the Pieces Together
+
+![](https://devcomprd.wpengine.com/wp-content/uploads/2021/03/CoreJ2ME01.jpg)
+
+
+## InformIT
+
+[The Basics of J2ME](https://www.informit.com/articles/article.aspx?p=26659)  
+Sun created the Java 2 Micro Edition (J2ME) to allow development of Java applications for devices that do not have the same processing power and memory found on a typical desktop platform. This includes cellular phones, PDAs, pagers, entertainment and automotive navigation systems, to name a few. Read here to learn about J2ME's configurations, application programming interfaces, and device profiles.
+
+---
+
+[Mobile Java with J2ME](https://www.informit.com/articles/article.aspx?p=1165034)  
+Mobile Java is a rapidly changing area. However, the associated Java development toolkits are well engineered and they include a plethora of easy to follow examples. This helps to reduce the cost of entry into this domain. To find out some more examples, read on.
+
+## Dr. Dobbs / mFoundry
+
+While working as the Developer Relations lead at mFoundry, an early player in mobile payments, I wrote an article for [Dr. Dobb's](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Journal) describing Mojax, mFoundry's platform for building mobile applications using [AJAX](https://en.wikipedia.org/wiki/Ajax_programming) technologies, JavaScript, CSS and XML. 
+
+<div style="width:200px; height:300px">
+[![](Mojax1.png)](Mojax.pdf "Mobile AJAX Framework")
+</div>
+
+
+:::
+
+
+## Technical Editor
+
+I was technical editor for the following books. This work included proofreading content and testing/rewriting programming examples.
+
+- [iPhone Developer’s Cookbook](https://www.amazon.com/iPhone-Developers-Cookbook-Building-Applications-ebook/dp/B0031WHC0A/ref=sr_1_1)  
+- [iPhone SDK Development](https://www.amazon.com/iPhone-SDK-Development-Pragmatic-Programmers/dp/1934356255/ref=sr_1_1)  
+- [Core JavaServer Faces](https://www.amazon.com/Core-JavaServer-Faces-David-Geary/dp/0137012896)  
+- [NetBeans IDE](https://www.amazon.com/NetBeans¿-IDE-Field-Guide-Applications/dp/0131876201)

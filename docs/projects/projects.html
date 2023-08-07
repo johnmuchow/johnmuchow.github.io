@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.361">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="With over 35 years of software development experience, I’ve been involved in countless projects. Below is a partial list of my work, both open and closed source.">
+
+<title>John Muchow - Portfolio -  Software Projects</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../favicon.ico" rel="icon">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-tradingview-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-project-sort'] }],
+      
+      searchColumns: ["listing-project","listing-path","listing-tech","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-tradingview-listings'] = new List('listing-tradingview-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-caruso-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-project-sort'] }],
+      
+      searchColumns: ["listing-project","listing-path","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-caruso-listings'] = new List('listing-caruso-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-david-ryan-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-project-sort'] }],
+      
+      searchColumns: ["listing-project","listing-path","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-david-ryan-listings'] = new List('listing-david-ryan-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-github-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-project-sort'] }],
+      
+      searchColumns: ["listing-project","listing-path","listing-tech","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-github-listings'] = new List('listing-github-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="John Muchow - Portfolio -  Software Projects">
+<meta property="og:description" content="With over 35 years of software development experience, I’ve been involved in countless projects. Below is a partial list of my work, both open and closed source.">
+<meta property="og:site-name" content="John Muchow - Portfolio">
+<meta name="twitter:title" content="John Muchow - Portfolio -  Software Projects">
+<meta name="twitter:description" content="With over 35 years of software development experience, I’ve been involved in countless projects. Below is a partial list of my work, both open and closed source.">
+<meta name="twitter:creator" content="@JohnMuchow">
+<meta name="twitter:card" content="summary">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand navbar-dark ">
+      <div class="navbar-container container-fluid">
+          <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../blog/blog.html" rel="" target="">
+ <span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../projects/projects.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../devrel/devrel.html" rel="" target="">
+ <span class="menu-text">DevRel</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../books-articles/books-articles.html" rel="" target="">
+ <span class="menu-text">Books-Articles</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about/about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
+</ul>
+          <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/johnmuchow/" rel="" target=""><i class="bi bi-linkedin" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/JohnMuchow" rel="" target=""><i class="bi bi-twitter" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/johnmuchow" rel="" target=""><i class="bi bi-github" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
+</ul>
+          <div class="quarto-navbar-tools">
+</div>
+            <div id="quarto-search" class="" title="Search"></div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#tradingview" id="toc-tradingview" class="nav-link active" data-scroll-target="#tradingview">TradingView</a></li>
+  <li><a href="#caruso-insights" id="toc-caruso-insights" class="nav-link" data-scroll-target="#caruso-insights">Caruso Insights</a></li>
+  <li><a href="#david-ryan" id="toc-david-ryan" class="nav-link" data-scroll-target="#david-ryan">David Ryan</a></li>
+  <li><a href="#github" id="toc-github" class="nav-link" data-scroll-target="#github"><i class="bi bi-github"></i> Github</a></li>
+  <li><a href="#contra-software" id="toc-contra-software" class="nav-link" data-scroll-target="#contra-software">Contra Software</a></li>
+  <li><a href="#softcard---mobile-payments-platform" id="toc-softcard---mobile-payments-platform" class="nav-link" data-scroll-target="#softcard---mobile-payments-platform">Softcard - Mobile Payments Platform</a></li>
+  <li><a href="#mfoundry---mojax" id="toc-mfoundry---mojax" class="nav-link" data-scroll-target="#mfoundry---mojax">mFoundry - Mojax</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><i class="bi bi-globe"></i> Software Projects</h1>
+</div>
+
+<div>
+  <div class="description">
+    With over 35 years of software development experience, I’ve been involved in countless projects. Below is a partial list of my work, both open and closed source.
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="tradingview" class="level2">
+<h2 class="anchored" data-anchor-id="tradingview">TradingView</h2>
+<p>I’ve designed and developed a collection of technical analysis tools for the <a href="https://tradingview.com">TradingView</a>, one of the largest and most well-known platforms for investors and traders, with over 185 million visitors per month. Many of my indicators are open source.</p>
+<div id="listing-tradingview-listings" class="quarto-listing quarto-listing-container-table">
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Project
+</th>
+<th>
+Description
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-project-sort="Power Trend Pro — Spot Powerful Uptrends">
+<td>
+<a href="https://www.tradingview.com/script/CzyVIdMM-Power-Trend-Pro-Spot-Powerful-Uptrends/" class="project listing-project">Power Trend Pro — Spot Powerful Uptrends</a>
+</td>
+<td>
+<span class="listing-description">Power Trend as defined by William O’Neil, founder of Investor’s Business Daily. </span>
+</td>
+</tr>
+<tr data-index="1" data-listing-project-sort="Multi-Timeframe Trend Analysis — Trend Boxes">
+<td>
+<a href="https://www.tradingview.com/script/U4WMgkJl-Multi-Timeframe-Trend-Analysis-Trend-Boxes/" class="project listing-project">Multi-Timeframe Trend Analysis — Trend Boxes</a>
+</td>
+<td>
+<span class="listing-description">Multi-timeframe trend analysis, created with professional trader David Ryan, three-time winner of the U.S. Investing Championship. </span>
+</td>
+</tr>
+<tr data-index="2" data-listing-project-sort="50% Retracement — Support &amp; Resistance">
+<td>
+<a href="https://www.tradingview.com/script/O2rakTRA-50-Retracement-Support-Resistance/" class="project listing-project">50% Retracement — Support &amp; Resistance</a>
+</td>
+<td>
+<span class="listing-description">Implemetation 50% retracement based on the work of W.D. Gann. </span>
+</td>
+</tr>
+<tr data-index="3" data-listing-project-sort="AVWAP Moving Average">
+<td>
+<a href="https://www.tradingview.com/script/xp1jCARi-AVWAP-Moving-Average/" class="project listing-project">AVWAP Moving Average</a>
+</td>
+<td>
+<span class="listing-description">Using AVWAP, manage the moving average period based on the chart timeframe. </span>
+</td>
+</tr>
+<tr data-index="4" data-listing-project-sort="Mini Coil With Real Range">
+<td>
+<a href="https://www.tradingview.com/script/LGrkD0nL-Mini-Coil-With-Real-Range/" class="project listing-project">Mini Coil With Real Range</a>
+</td>
+<td>
+<span class="listing-description">Detect coiling action that represents a tightening of volatility. </span>
+</td>
+</tr>
+<tr data-index="5" data-listing-project-sort="Relative Strength Moving Average Crossover">
+<td>
+<a href="https://www.tradingview.com/script/ar2pi6Hh-Relative-Strength-Moving-Average-Crossover/" class="project listing-project">Relative Strength Moving Average Crossover</a>
+</td>
+<td>
+<span class="listing-description">Combines moving average crossover with the Relative Strength Line, created by William O’Neil. </span>
+</td>
+</tr>
+<tr data-index="6" data-listing-project-sort="Marked Highs/Lows — Support &amp; Resistance">
+<td>
+<a href="https://www.tradingview.com/script/S6TEtywL-Marked-Highs-Lows-Support-Resistance/" class="project listing-project">Marked Highs/Lows — Support &amp; Resistance</a>
+</td>
+<td>
+<span class="listing-description">Mimics marked highs/lows in MarketSmith, a charting tool available from Investor’s Business Daily. </span>
+</td>
+</tr>
+<tr data-index="7" data-listing-project-sort="Relative Volume Pro - Realtime Volume Flow">
+<td>
+<a href="https://www.tradingview.com/script/h0nisoXi-Relative-Volume-Pro-Realtime-Volume-Flow/" class="project listing-project">Relative Volume Pro - Realtime Volume Flow</a>
+</td>
+<td>
+<span class="listing-description">Compares current volume versus the prior volume at the same time of day. </span>
+</td>
+</tr>
+<tr data-index="8" data-listing-project-sort="Darvas Box Theory — Tracking Uptrends">
+<td>
+<a href="https://www.tradingview.com/script/ygJLhYt4-Darvas-Box-Theory-Tracking-Uptrends/" class="project listing-project">Darvas Box Theory — Tracking Uptrends</a>
+</td>
+<td>
+<span class="listing-description">Darvas box theory based on the work of Nicolas Darvas, author of the book “How I Made $2 Million in the Stock Market”. </span>
+</td>
+</tr>
+<tr data-index="9" data-listing-project-sort="Earnings, Sales &amp; Volume Dashboard">
+<td>
+<a href="https://www.tradingview.com/script/qqB8wb8H-Earnings-Sales-Volume-Dashboard/" class="project listing-project">Earnings, Sales &amp; Volume Dashboard</a>
+</td>
+<td>
+<span class="listing-description">View earnings per share (EPS) and sales data for Year-over-Year (YoY) and/or Quarter-on-Quarter (QoQ). </span>
+</td>
+</tr>
+<tr data-index="10" data-listing-project-sort="Ants — Momentum, Volume and Price (MVP)">
+<td>
+<a href="https://www.tradingview.com/script/uEaFv7tm-Ants-Momentum-Volume-and-Price-MVP/" class="project listing-project">Ants — Momentum, Volume and Price (MVP)</a>
+</td>
+<td>
+<span class="listing-description">Detect current trends. Created with professional trader David Ryan, three-time winner of the U.S. Investing Championship. </span>
+</td>
+</tr>
+<tr data-index="11" data-listing-project-sort="Moving Averages For All Timeframes">
+<td>
+<a href="https://www.tradingview.com/script/fxAXf8hu-Moving-Averages-For-All-Timeframes/" class="project listing-project">Moving Averages For All Timeframes</a>
+</td>
+<td>
+<span class="listing-description">Manage moving averages, for every timeframe, from within one indicator. </span>
+</td>
+</tr>
+<tr data-index="12" data-listing-project-sort="Volume Positive Negative (VPN)">
+<td>
+<a href="https://www.tradingview.com/script/jYSKZ6vd-Volume-Positive-Negative-VPN/" class="project listing-project">Volume Positive Negative (VPN)</a>
+</td>
+<td>
+<span class="listing-description">Based on work of Markos Katsanos in Technical Analysis of Stocks &amp; Commodities April, 2021 (Vol. 39, Issue 5). </span>
+</td>
+</tr>
+<tr data-index="13" data-listing-project-sort="Volume with Configurable Moving Averages">
+<td>
+<a href="https://www.tradingview.com/script/amMkK1fO-Volume-with-Configurable-Moving-Averages/" class="project listing-project">Volume with Configurable Moving Averages</a>
+</td>
+<td>
+<span class="listing-description">Volume with Configurable Moving Averages displays volume based on the current timeframe. </span>
+</td>
+</tr>
+<tr data-index="14" data-listing-project-sort="Price Stats">
+<td>
+<a href="https://www.tradingview.com/script/ZsH7XQwt-Price-Stats/" class="project listing-project">Price Stats</a>
+</td>
+<td>
+<span class="listing-description">Mimic Price Stats dagta shown in MarketSmith, a charting tool available from Investor’s Business Daily. </span>
+</td>
+</tr>
+<tr data-index="15" data-listing-project-sort="3 Weeks Tight - CANSLIM Technical Indicator">
+<td>
+<a href="https://www.tradingview.com/script/NHt4hBzv-3-Weeks-Tight-CANSLIM-Technical-Indicator/" class="project listing-project">3 Weeks Tight - CANSLIM Technical Indicator</a>
+</td>
+<td>
+<span class="listing-description">3 weeks tight is a bullish continuation pattern discovered by IBD’s founder, William O’Neil. </span>
+</td>
+</tr>
+<tr data-index="16" data-listing-project-sort="RS Line - Gauge Performance vs Index">
+<td>
+<a href="https://www.tradingview.com/script/cClLGtbd-RS-Line-Gauge-Performance-vs-Index/" class="project listing-project">RS Line - Gauge Performance vs Index</a>
+</td>
+<td>
+<span class="listing-description">Mimic RS Line in MarketSmith, a charting tool available from Investor’s Business Daily. </span>
+</td>
+</tr>
+<tr data-index="17" data-listing-project-sort="Webby's RSI (Really Simple Indicator)">
+<td>
+<a href="https://www.tradingview.com/script/SkO2zea5-Webby-s-RSI-Really-Simple-Indicator/" class="project listing-project">Webby’s RSI (Really Simple Indicator)</a>
+</td>
+<td>
+<span class="listing-description">Webby’s RSI (Really Simple Indicator) created by Mike Webster, previously a portfolio manager for William O’Neil, founder of Investor’s Business Daily. </span>
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="caruso-insights" class="level2">
+<h2 class="anchored" data-anchor-id="caruso-insights">Caruso Insights</h2>
+<p>The following trading tools were created in collaboration with <a href="https://www.carusoinsights.com/charting/">Matt Caruso</a>, a professional trader who had a <strong>346% return</strong> in the 2020 U.S. Investing Championship.</p>
+<div id="listing-caruso-listings" class="quarto-listing quarto-listing-container-table">
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Project
+</th>
+<th>
+Description
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-project-sort="Caruso Adaptive Relative Strength (CA|RS)">
+<td>
+<a href="https://www.carusoinsights.com/cars/" class="project listing-project">Caruso Adaptive Relative Strength (CA|RS)</a>
+</td>
+<td>
+<span class="listing-description">Unlike any other RS tool, CA|RS adapts to a stock’s volatility to identify the truest RS signal.</span>
+</td>
+</tr>
+<tr data-index="1" data-listing-project-sort="Caruso Divergence Relative Strength (CD|RS)">
+<td>
+<a href="https://www.carusoinsights.com/cdrs/" class="project listing-project">Caruso Divergence Relative Strength (CD|RS)</a>
+</td>
+<td>
+<span class="listing-description">Spot divergences like never before. Apply CD|RS to any stocks, benchmark and timeframe.</span>
+</td>
+</tr>
+<tr data-index="2" data-listing-project-sort="Caruso Financial Dashboard (CF|DB)">
+<td>
+<a href="https://www.carusoinsights.com/cfdb/" class="project listing-project">Caruso Financial Dashboard (CF|DB)</a>
+</td>
+<td>
+<span class="listing-description">Access to rich company financial and market data. Global data coverage.</span>
+</td>
+</tr>
+<tr data-index="3" data-listing-project-sort="Caruso Market Dashboard (CM|DB)">
+<td>
+<a href="https://www.carusoinsights.com/cmdb/" class="project listing-project">Caruso Market Dashboard (CM|DB)</a>
+</td>
+<td>
+<span class="listing-description">Snapshot of key US market data, market internals (breadth), and economic statistics.</span>
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="david-ryan" class="level2">
+<h2 class="anchored" data-anchor-id="david-ryan">David Ryan</h2>
+<p><a href="https://twitter.com/dryan310">David</a> is 3 time U.S Investing Champion 1985, 1986, 1987 and Portfolio Manager at William O’Neil &amp; Co.&nbsp;David worked directly with William O’Neil for many years. David and I collaborated on several custom indicators:</p>
+<div id="listing-david-ryan-listings" class="quarto-listing quarto-listing-container-table">
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Project
+</th>
+<th>
+Description
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-project-sort="Ants — Momentum, Volume &amp; Price">
+<td>
+<a href="https://www.tradingview.com/script/uEaFv7tm-Ants-Momentum-Volume-and-Price-MVP/" class="project listing-project">Ants — Momentum, Volume &amp; Price</a>
+</td>
+<td>
+<span class="listing-description">In-depth analysis of momentum, volume and price action.</span>
+</td>
+</tr>
+<tr data-index="1" data-listing-project-sort="Multi-Timeframe Trend Analysis">
+<td>
+<a href="https://www.tradingview.com/script/U4WMgkJl-Multi-Timeframe-Trend-Analysis-Trend-Boxes/" class="project listing-project">Multi-Timeframe Trend Analysis</a>
+</td>
+<td>
+<span class="listing-description">View higher timeframe trend data all within one chart.</span>
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="github" class="level2">
+<h2 class="anchored" data-anchor-id="github"><i class="bi bi-github"></i> Github</h2>
+<p>A partial list of open source projects I’ve worked on. I’ll be adding to this list in the coming weeks.</p>
+<div id="listing-github-listings" class="quarto-listing quarto-listing-container-table">
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Project
+</th>
+<th>
+Description
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-project-sort="Python Candlestick Pattern Matching">
+<td>
+<a href="https://github.com/johnmuchow/Python-Candlestick-Pattern-Matching" class="project listing-project">Python Candlestick Pattern Matching</a>
+</td>
+<td>
+<span class="listing-description">This project scans all the symbols in the Nasdaq 100 and S&amp;P 500 for candlestick patterns. </span>
+</td>
+</tr>
+<tr data-index="1" data-listing-project-sort="Net-Highs-Net-Lows">
+<td>
+<a href="https://github.com/johnmuchow/Net-Highs-Net-Lows" class="project listing-project">Net-Highs-Net-Lows</a>
+</td>
+<td>
+<span class="listing-description">Use Python and Yahoo Finance APIs to calculate Nasdaq net highs/lows. </span>
+</td>
+</tr>
+<tr data-index="2" data-listing-project-sort="Animated Appbar">
+<td>
+<a href="https://github.com/johnmuchow/animated_appbar" class="project listing-project">Animated Appbar</a>
+</td>
+<td>
+<span class="listing-description">Create an animated AppBar that includes animation of both a logo and included text. </span>
+</td>
+</tr>
+<tr data-index="3" data-listing-project-sort="Stock Tracker">
+<td>
+<a href="https://github.com/johnmuchow/stock_tracker" class="project listing-project">Stock Tracker</a>
+</td>
+<td>
+<span class="listing-description">Track stocks for multiple users, using Cloud Firestore on the backend. </span>
+</td>
+</tr>
+<tr data-index="4" data-listing-project-sort="Position Size Calculator">
+<td>
+<a href="https://github.com/johnmuchow/Position-Size-Calculator" class="project listing-project">Position Size Calculator</a>
+</td>
+<td>
+<span class="listing-description">Position size calculator written in thinkscript. </span>
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="contra-software" class="level2">
+<h2 class="anchored" data-anchor-id="contra-software">Contra Software</h2>
+<p>As both an employee and investor of Contra Software, I was a Principal Software Engineer, focused on design and development of the iOS applications. Our application was used by NBC Universal to track and manage projects for both TV and film productions. Video walk-throughs of our flagship application, Studio Fusion, will be available soon.</p>
+</section>
+<section id="softcard---mobile-payments-platform" class="level2">
+<h2 class="anchored" data-anchor-id="softcard---mobile-payments-platform">Softcard - Mobile Payments Platform</h2>
+<p><a href="https://en.wikipedia.org/wiki/Softcard">Softcard Mobile Payment Platform</a></p>
+<p>I was the Sr.&nbsp;iOS Architect for this unique mobile payment platform. Softcard (formerly known as Isis) allowed consumers to make payments at retail stores using their smartphones.</p>
+<p>The technology used NFC (near field communication) to transmit payment information from the phone to the POS terminal. I designed and developed the iOS wallet application, as well as the iOS SDK for merchants. I worked closely with the engineering teams at AT&amp;T, Verizon, T-Mobile and the payment networks Visa and Mastercard. The project was eventually shut down, but it was a very interesting experience working on mobile payments early on. The technology and concepts behind Softcard are still relevant today.</p>
+</section>
+<section id="mfoundry---mojax" class="level2">
+<h2 class="anchored" data-anchor-id="mfoundry---mojax">mFoundry - Mojax</h2>
+<p>Coming soon…</p>
+
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left"><a href="../release_notes.html">Release Notes v1.0</a></div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/johnmuchow/">
+      <i class="bi bi-linkedin" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/JohnMuchow">
+      <i class="bi bi-twitter" role="img">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/johnmuchow">
+      <i class="bi bi-github" role="img">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+</body></html>

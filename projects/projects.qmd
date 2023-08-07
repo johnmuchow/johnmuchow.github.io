@@ -1,0 +1,121 @@
+---
+title: '<i class="bi bi-globe"></i> Software Projects'
+description: With over 35 years of software development experience, I've been involved in countless projects. Below is a partial list of my work, both open and closed source.
+sidebar: false
+listing: 
+  - id: tradingview-listings
+    contents: data/tradingview.yml
+    type: table
+    sort-ui: false
+    filter-ui: false
+    categories: false
+    fields: 
+    - project
+    - description
+    field-links:
+    - project
+    field-display-names:
+      project: Project
+      description: Description
+      tech: Technology
+  - id: caruso-listings
+    contents: data/caruso.yml
+    type: table
+    sort-ui: false
+    filter-ui: false
+    categories: false
+    fields: 
+    - project
+    - description
+    field-links:
+    - project
+    field-display-names:
+      project: Project
+      description: Description
+      tech: Technology
+  - id: david-ryan-listings
+    contents: data/david-ryan.yml
+    type: table
+    sort-ui: false
+    filter-ui: false
+    categories: false
+    fields: 
+    - project
+    - description
+    field-links:
+    - project
+    field-display-names:
+      project: Project
+      description: Description
+      tech: Technology
+  - id: github-listings
+    contents: data/github.yml
+    type: table
+    sort-ui: false
+    filter-ui: false
+    categories: false
+    fields: 
+    - project
+    - description
+    field-links:
+    - project
+    field-display-names:
+      project: Project
+      description: Description
+      tech: Technology
+---
+
+
+## TradingView 
+
+I've designed and developed a collection of technical analysis tools for the [TradingView](https://tradingview.com), one of the largest and most well-known platforms for investors and traders, with over 185 million visitors per month. Many of my indicators are open source.
+
+::: {#tradingview-listings}
+
+:::
+
+## Caruso Insights 
+
+The following trading tools were created in collaboration with [Matt Caruso](https://www.carusoinsights.com/charting/), a professional trader who had a **346% return** in the 2020 U.S. Investing Championship.
+
+::: {#caruso-listings}
+
+:::
+
+## David Ryan
+
+[David](https://twitter.com/dryan310) is 3 time U.S Investing Champion 1985, 1986, 1987 and Portfolio Manager at William O’Neil & Co. David worked directly with William O'Neil for many years. David and I collaborated on several custom indicators:
+
+::: {#david-ryan-listings}
+
+:::
+
+## <i class="bi bi-github"></i> Github
+
+A partial list of open source projects I've worked on. I'll be adding to this list in the coming weeks.
+
+::: {#github-listings}
+:::
+
+
+
+##  Contra Software
+
+As both an employee and investor of Contra Software, I was a Principal Software Engineer, focused on design and development of the iOS applications. Our application was used by NBC Universal to track and manage projects for both TV and film productions. Video walk-throughs of our flagship application, Studio Fusion, will be available soon.
+
+
+## Softcard - Mobile Payments Platform
+
+[Softcard Mobile Payment Platform](https://en.wikipedia.org/wiki/Softcard)
+
+I was the Sr. iOS Architect for this unique mobile payment platform. Softcard (formerly known as Isis) allowed consumers to make payments at retail stores using their smartphones. 
+
+The technology used NFC (near field communication) to transmit payment information from the phone to the POS terminal. 
+I designed and developed the iOS wallet application, as well as the iOS SDK for merchants. 
+I worked closely with the engineering teams at AT&T, Verizon, T-Mobile and the payment networks Visa and Mastercard.
+The project was eventually shut down, but it was a very interesting experience working on mobile payments early on. The technology and concepts behind Softcard are still relevant today.
+
+
+## mFoundry - Mojax
+
+Coming soon...

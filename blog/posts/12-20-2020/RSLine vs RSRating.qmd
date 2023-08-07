@@ -1,0 +1,26 @@
+---
+title: RS Line vs RS Rating - Cheat Sheet
+date: 12-20-2020
+filters:
+   - lightbox
+lightbox: auto
+---
+
+Although both values appear next to each other on a MarketSmith chart, the RS Line and RS Rating are quite different in what information they represent. To create a visual to indicate these values are unique, I’ve drawn a red box around the RS Line and a green box around the RS Rating.
+
+![](chart.jpg){fig-alt=""}
+
+
+## RS Line
+
+The RS Line represents a stock’s performance versus the S&P 500. If you are looking at a weekly chart, the RS Line is the performance of the stock over the past week versus the S&P 500 over that same time frame. The same logic applies to the daily and monthly charts, only the time frames are different.
+
+If a stock moves up for the day/week/month and the S&P 500 does not, the RS Line will move up. If a stock ends the day/week/month flat, but the S&P 500 moves up, the RS Line will go down.
+
+The daily chart can have a little more “noise” as it reflects price movements on a more frequent basis. Look to the weekly and monthly RS Line to get a view of the longer term trend.
+
+## RS Rating
+
+This value represents a stocks performance for one year compared to all stocks in the MarketSmith database. The value is double weighted for the most recent quarter. The best performing stocks will be a 99 and the worst 1.
+
+Keep in mind that the RS Rating is calculated as an average of all values over one year. Therefore, a gap up/down will have little impact on the RS Rating. Contrast that with the RS Line, which is calculated daily, weekly or monthly depending on the chart you are looking at.

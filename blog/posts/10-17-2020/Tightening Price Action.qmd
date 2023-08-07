@@ -1,0 +1,38 @@
+---
+title: Tightening Price Action Preceding a Breakout
+date: 10-17-2020
+filters:
+   - lightbox
+lightbox: auto
+---
+
+In 1962, William Jiler referred to 'tightening price action' as a coil. It is also known as a symmetrical triangle. Price action of lower highs and higher lows, along with volume declining, will often lead to a breakout that follows in the direction of the prior trend.
+
+![](jiler.jpg){height="500"}
+
+
+
+## Historical Charts
+
+It’s always interesting to look at historical charts. The more charts you view, the more obvious it becomes that nothing has changed with supply/demand and human psychology. Here’s a chart from 1944:
+
+![](gimbel.png){height="500"}
+
+Apple (AAPL) has shown this consolidation pattern many times over the years. Here’s a chart from 1986:
+
+![](AAPL.png){height="600"}
+
+Following are charts for Zoom (ZM), both daily and weekly.
+
+![](ZM.png){height="600"}
+
+As the price is contracting, notice that the volume is also declining. Upon breakout, the price action continued in the direction of the prior trend. Notice the same action for Costco (COST).
+
+![](COST.png){height="600"}
+
+Daily and weekly charts of TSLA show consistent price tightening and declining volume.
+
+![](TSLA.png){height="600"}
+
+As with all technical patterns, this is an art, not science. With that said, tightening price action with a decline in volume may foretell a continuation of the prior trend. It’s worth some time to study and look for this pattern.
+

@@ -1,0 +1,34 @@
+---
+title: '<i class="bi bi-person-vcard"></i> About'
+description: "{{< animate slideInLeft 'John Muchow' >}}"
+image: ""
+sidebar: false
+---
+
+## Software Development Background and Interests {.animate__animated .animate__slideInLeft}
+
+My career spans over 35+ years in software development, covering all aspects of the SDLC, including application architecture, design and development.
+
+I've had the great fortune to work with many well-known companies and brands including: NBC Universal, AT&T, T-Mobile, Verizon, TradingView, HBO, Nokia, IBM, Snoop Dogg, Warner Brothers, among others.
+
+Software Development Books, Articles and Publications:  
+• Author of a best-selling mobile application developer book that was published in five languages.  
+• Published articles: PC Magazine, IBM, O'Reilly, SD Times, and many others.  
+• Technical editor for numerous technical books.  
+
+Interests:  
+• Developer tools and integration of AI.  
+• SEO: audits, keyword analysis, on-page SEO.  
+• Technical analysis and trading tools/platforms.  
+• Startups and new product development.  
+
+I have the proven ability to quickly master new programming languages, tools and technologies. I'm an entrepreneur at heart with a passion for building software products. I am an effective communicator with both technical and business teams.
+
+## Open to Projects and Career Opportunities {.animate__animated .animate__slideInRight}
+
+Looking for an experienced software engineer/leader? Need a hand with trading tools or technical analysis? Please feel free to reach me via [![](../images/icon-linkedin.png){width="4%"}](https://www.linkedin.com/in/johnmuchow/) or [![](../images/icons-twitter.png){width="4%"}](https://twitter.com/JohnMuchow)
+
+::: {.callout-note title="Useless Trivia" collapse="true"}
+
+My 5 minutes of fame: I wrote Snoop Dogg’s first iPhone app, [iFizzle](https://www.youtube.com/watch?v=AL4-ghF76zQ), featured on the Tonight Show.
+:::

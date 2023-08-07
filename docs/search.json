@@ -1,0 +1,422 @@
+[
+  {
+    "objectID": "devrel/devrel.html",
+    "href": "devrel/devrel.html",
+    "title": " Developer Relations",
+    "section": "",
+    "text": "CurrentmFoundrySun MicrosystemsNokiaVignette\n\n\nMy current work includes writing many technical indicators, both open/closed source for the TradingView platform. I’ve also written many how-to articles on TradingView’s proprietary language, Pine Script.\nI’ve also written applications and tutorials based on technical analysis concepts published by Investor’s Business Daily. In addition, I wrote several applications for TD Ameritrade’s ThinkOrSwim platform.\n\n\nI was the developer relations lead for mFoundry. mFoundry was an early player in the mobile payments space. The platform was called Mojax, short for Mobile Ajax. Mojax was a framework that leveraged the technologies that make AJAX a compelling platform for web development (JavaScript, CSS and XML) and extended the concepts to build mobile applications.\nMojax Wins Best Mobile Developer Tool\nOne huge milestone while evangelizing Mojax was winning the Jolt award for the best mobile developer platform. For those unfamiliar with the Jolt award, Dr. Dobb’s Excellence in Programming Award, was given to individuals or teams that:\n\n“made significant contributions to the advancement of software development.”\n\n\n\n\n\n\n\n\n\n\nBased on my subject matter expertise with J2ME - read more about my J2ME book Core J2ME - I was approached by Sun Microsystems to join their team as a Sr. Software Architect and developer advocate for all mobile developer tools. All tools were built on the NetBeans platform. NetBeans has since been acquired by Apache.org\n\n\nBased on my work (at the time) with J2ME and my mobile developer book - Core J2ME - Nokia inquired if I would join their developer relations team to help design, build and grow their developer community.\nI presented at many developer events and wrote numerous tutorials for their developer community, known as Forum Nokia. I also helped to build relationships with third-party developers interested in designing and developing games for Nokia devices.\n\n\nFrom 1998 to late 2000, I was a Sr. Developer Trainer and Partner Integration Lead for Vignette. Vignette was a web framework built on JavaServer Pages designed to create large scale Content Management Systems (CMS).\nI was also the Train-the-Trainer Program Manager, working with consultants and companies around the globe to educate and evangelize Vignette’s developer tools."
+  },
+  {
+    "objectID": "devrel/devrel.html#developer-relations-education",
+    "href": "devrel/devrel.html#developer-relations-education",
+    "title": " Developer Relations",
+    "section": "",
+    "text": "CurrentmFoundrySun MicrosystemsNokiaVignette\n\n\nMy current work includes writing many technical indicators, both open/closed source for the TradingView platform. I’ve also written many how-to articles on TradingView’s proprietary language, Pine Script.\nI’ve also written applications and tutorials based on technical analysis concepts published by Investor’s Business Daily. In addition, I wrote several applications for TD Ameritrade’s ThinkOrSwim platform.\n\n\nI was the developer relations lead for mFoundry. mFoundry was an early player in the mobile payments space. The platform was called Mojax, short for Mobile Ajax. Mojax was a framework that leveraged the technologies that make AJAX a compelling platform for web development (JavaScript, CSS and XML) and extended the concepts to build mobile applications.\nMojax Wins Best Mobile Developer Tool\nOne huge milestone while evangelizing Mojax was winning the Jolt award for the best mobile developer platform. For those unfamiliar with the Jolt award, Dr. Dobb’s Excellence in Programming Award, was given to individuals or teams that:\n\n“made significant contributions to the advancement of software development.”\n\n\n\n\n\n\n\n\n\n\nBased on my subject matter expertise with J2ME - read more about my J2ME book Core J2ME - I was approached by Sun Microsystems to join their team as a Sr. Software Architect and developer advocate for all mobile developer tools. All tools were built on the NetBeans platform. NetBeans has since been acquired by Apache.org\n\n\nBased on my work (at the time) with J2ME and my mobile developer book - Core J2ME - Nokia inquired if I would join their developer relations team to help design, build and grow their developer community.\nI presented at many developer events and wrote numerous tutorials for their developer community, known as Forum Nokia. I also helped to build relationships with third-party developers interested in designing and developing games for Nokia devices.\n\n\nFrom 1998 to late 2000, I was a Sr. Developer Trainer and Partner Integration Lead for Vignette. Vignette was a web framework built on JavaServer Pages designed to create large scale Content Management Systems (CMS).\nI was also the Train-the-Trainer Program Manager, working with consultants and companies around the globe to educate and evangelize Vignette’s developer tools."
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": " Software Projects",
+    "section": "",
+    "text": "I’ve designed and developed a collection of technical analysis tools for the TradingView, one of the largest and most well-known platforms for investors and traders, with over 185 million visitors per month. Many of my indicators are open source.\n\n\n\n\n\n\nProject\n\n\nDescription\n\n\n\n\n\n\nPower Trend Pro — Spot Powerful Uptrends\n\n\nPower Trend as defined by William O’Neil, founder of Investor’s Business Daily. \n\n\n\n\nMulti-Timeframe Trend Analysis — Trend Boxes\n\n\nMulti-timeframe trend analysis, created with professional trader David Ryan, three-time winner of the U.S. Investing Championship. \n\n\n\n\n50% Retracement — Support & Resistance\n\n\nImplemetation 50% retracement based on the work of W.D. Gann. \n\n\n\n\nAVWAP Moving Average\n\n\nUsing AVWAP, manage the moving average period based on the chart timeframe. \n\n\n\n\nMini Coil With Real Range\n\n\nDetect coiling action that represents a tightening of volatility. \n\n\n\n\nRelative Strength Moving Average Crossover\n\n\nCombines moving average crossover with the Relative Strength Line, created by William O’Neil. \n\n\n\n\nMarked Highs/Lows — Support & Resistance\n\n\nMimics marked highs/lows in MarketSmith, a charting tool available from Investor’s Business Daily. \n\n\n\n\nRelative Volume Pro - Realtime Volume Flow\n\n\nCompares current volume versus the prior volume at the same time of day. \n\n\n\n\nDarvas Box Theory — Tracking Uptrends\n\n\nDarvas box theory based on the work of Nicolas Darvas, author of the book “How I Made $2 Million in the Stock Market”. \n\n\n\n\nEarnings, Sales & Volume Dashboard\n\n\nView earnings per share (EPS) and sales data for Year-over-Year (YoY) and/or Quarter-on-Quarter (QoQ). \n\n\n\n\nAnts — Momentum, Volume and Price (MVP)\n\n\nDetect current trends. Created with professional trader David Ryan, three-time winner of the U.S. Investing Championship. \n\n\n\n\nMoving Averages For All Timeframes\n\n\nManage moving averages, for every timeframe, from within one indicator. \n\n\n\n\nVolume Positive Negative (VPN)\n\n\nBased on work of Markos Katsanos in Technical Analysis of Stocks & Commodities April, 2021 (Vol. 39, Issue 5). \n\n\n\n\nVolume with Configurable Moving Averages\n\n\nVolume with Configurable Moving Averages displays volume based on the current timeframe. \n\n\n\n\nPrice Stats\n\n\nMimic Price Stats dagta shown in MarketSmith, a charting tool available from Investor’s Business Daily. \n\n\n\n\n3 Weeks Tight - CANSLIM Technical Indicator\n\n\n3 weeks tight is a bullish continuation pattern discovered by IBD’s founder, William O’Neil. \n\n\n\n\nRS Line - Gauge Performance vs Index\n\n\nMimic RS Line in MarketSmith, a charting tool available from Investor’s Business Daily. \n\n\n\n\nWebby’s RSI (Really Simple Indicator)\n\n\nWebby’s RSI (Really Simple Indicator) created by Mike Webster, previously a portfolio manager for William O’Neil, founder of Investor’s Business Daily. \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/projects.html#tradingview",
+    "href": "projects/projects.html#tradingview",
+    "title": " Software Projects",
+    "section": "",
+    "text": "I’ve designed and developed a collection of technical analysis tools for the TradingView, one of the largest and most well-known platforms for investors and traders, with over 185 million visitors per month. Many of my indicators are open source.\n\n\n\n\n\n\nProject\n\n\nDescription\n\n\n\n\n\n\nPower Trend Pro — Spot Powerful Uptrends\n\n\nPower Trend as defined by William O’Neil, founder of Investor’s Business Daily. \n\n\n\n\nMulti-Timeframe Trend Analysis — Trend Boxes\n\n\nMulti-timeframe trend analysis, created with professional trader David Ryan, three-time winner of the U.S. Investing Championship. \n\n\n\n\n50% Retracement — Support & Resistance\n\n\nImplemetation 50% retracement based on the work of W.D. Gann. \n\n\n\n\nAVWAP Moving Average\n\n\nUsing AVWAP, manage the moving average period based on the chart timeframe. \n\n\n\n\nMini Coil With Real Range\n\n\nDetect coiling action that represents a tightening of volatility. \n\n\n\n\nRelative Strength Moving Average Crossover\n\n\nCombines moving average crossover with the Relative Strength Line, created by William O’Neil. \n\n\n\n\nMarked Highs/Lows — Support & Resistance\n\n\nMimics marked highs/lows in MarketSmith, a charting tool available from Investor’s Business Daily. \n\n\n\n\nRelative Volume Pro - Realtime Volume Flow\n\n\nCompares current volume versus the prior volume at the same time of day. \n\n\n\n\nDarvas Box Theory — Tracking Uptrends\n\n\nDarvas box theory based on the work of Nicolas Darvas, author of the book “How I Made $2 Million in the Stock Market”. \n\n\n\n\nEarnings, Sales & Volume Dashboard\n\n\nView earnings per share (EPS) and sales data for Year-over-Year (YoY) and/or Quarter-on-Quarter (QoQ). \n\n\n\n\nAnts — Momentum, Volume and Price (MVP)\n\n\nDetect current trends. Created with professional trader David Ryan, three-time winner of the U.S. Investing Championship. \n\n\n\n\nMoving Averages For All Timeframes\n\n\nManage moving averages, for every timeframe, from within one indicator. \n\n\n\n\nVolume Positive Negative (VPN)\n\n\nBased on work of Markos Katsanos in Technical Analysis of Stocks & Commodities April, 2021 (Vol. 39, Issue 5). \n\n\n\n\nVolume with Configurable Moving Averages\n\n\nVolume with Configurable Moving Averages displays volume based on the current timeframe. \n\n\n\n\nPrice Stats\n\n\nMimic Price Stats dagta shown in MarketSmith, a charting tool available from Investor’s Business Daily. \n\n\n\n\n3 Weeks Tight - CANSLIM Technical Indicator\n\n\n3 weeks tight is a bullish continuation pattern discovered by IBD’s founder, William O’Neil. \n\n\n\n\nRS Line - Gauge Performance vs Index\n\n\nMimic RS Line in MarketSmith, a charting tool available from Investor’s Business Daily. \n\n\n\n\nWebby’s RSI (Really Simple Indicator)\n\n\nWebby’s RSI (Really Simple Indicator) created by Mike Webster, previously a portfolio manager for William O’Neil, founder of Investor’s Business Daily. \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/projects.html#caruso-insights",
+    "href": "projects/projects.html#caruso-insights",
+    "title": " Software Projects",
+    "section": "Caruso Insights",
+    "text": "Caruso Insights\nThe following trading tools were created in collaboration with Matt Caruso, a professional trader who had a 346% return in the 2020 U.S. Investing Championship.\n\n\n\n\n\n\nProject\n\n\nDescription\n\n\n\n\n\n\nCaruso Adaptive Relative Strength (CA|RS)\n\n\nUnlike any other RS tool, CA|RS adapts to a stock’s volatility to identify the truest RS signal.\n\n\n\n\nCaruso Divergence Relative Strength (CD|RS)\n\n\nSpot divergences like never before. Apply CD|RS to any stocks, benchmark and timeframe.\n\n\n\n\nCaruso Financial Dashboard (CF|DB)\n\n\nAccess to rich company financial and market data. Global data coverage.\n\n\n\n\nCaruso Market Dashboard (CM|DB)\n\n\nSnapshot of key US market data, market internals (breadth), and economic statistics.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/projects.html#david-ryan",
+    "href": "projects/projects.html#david-ryan",
+    "title": " Software Projects",
+    "section": "David Ryan",
+    "text": "David Ryan\nDavid is 3 time U.S Investing Champion 1985, 1986, 1987 and Portfolio Manager at William O’Neil & Co. David worked directly with William O’Neil for many years. David and I collaborated on several custom indicators:\n\n\n\n\n\n\nProject\n\n\nDescription\n\n\n\n\n\n\nAnts — Momentum, Volume & Price\n\n\nIn-depth analysis of momentum, volume and price action.\n\n\n\n\nMulti-Timeframe Trend Analysis\n\n\nView higher timeframe trend data all within one chart.\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/projects.html#github",
+    "href": "projects/projects.html#github",
+    "title": " Software Projects",
+    "section": " Github",
+    "text": "Github\nA partial list of open source projects I’ve worked on. I’ll be adding to this list in the coming weeks.\n\n\n\n\n\n\nProject\n\n\nDescription\n\n\n\n\n\n\nPython Candlestick Pattern Matching\n\n\nThis project scans all the symbols in the Nasdaq 100 and S&P 500 for candlestick patterns. \n\n\n\n\nNet-Highs-Net-Lows\n\n\nUse Python and Yahoo Finance APIs to calculate Nasdaq net highs/lows. \n\n\n\n\nAnimated Appbar\n\n\nCreate an animated AppBar that includes animation of both a logo and included text. \n\n\n\n\nStock Tracker\n\n\nTrack stocks for multiple users, using Cloud Firestore on the backend. \n\n\n\n\nPosition Size Calculator\n\n\nPosition size calculator written in thinkscript. \n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/projects.html#contra-software",
+    "href": "projects/projects.html#contra-software",
+    "title": " Software Projects",
+    "section": "Contra Software",
+    "text": "Contra Software\nAs both an employee and investor of Contra Software, I was a Principal Software Engineer, focused on design and development of the iOS applications. Our application was used by NBC Universal to track and manage projects for both TV and film productions. Video walk-throughs of our flagship application, Studio Fusion, will be available soon."
+  },
+  {
+    "objectID": "projects/projects.html#softcard---mobile-payments-platform",
+    "href": "projects/projects.html#softcard---mobile-payments-platform",
+    "title": " Software Projects",
+    "section": "Softcard - Mobile Payments Platform",
+    "text": "Softcard - Mobile Payments Platform\nSoftcard Mobile Payment Platform\nI was the Sr. iOS Architect for this unique mobile payment platform. Softcard (formerly known as Isis) allowed consumers to make payments at retail stores using their smartphones.\nThe technology used NFC (near field communication) to transmit payment information from the phone to the POS terminal. I designed and developed the iOS wallet application, as well as the iOS SDK for merchants. I worked closely with the engineering teams at AT&T, Verizon, T-Mobile and the payment networks Visa and Mastercard. The project was eventually shut down, but it was a very interesting experience working on mobile payments early on. The technology and concepts behind Softcard are still relevant today."
+  },
+  {
+    "objectID": "projects/projects.html#mfoundry---mojax",
+    "href": "projects/projects.html#mfoundry---mojax",
+    "title": " Software Projects",
+    "section": "mFoundry - Mojax",
+    "text": "mFoundry - Mojax\nComing soon…"
+  },
+  {
+    "objectID": "release_notes.html",
+    "href": "release_notes.html",
+    "title": "Release Notes",
+    "section": "",
+    "text": "Initial release.\nWebsite published using Quarto.\nAnimation credit: Mickaël Canouil: Animate.css extension"
+  },
+  {
+    "objectID": "release_notes.html#version-1.0-august-7th-2023",
+    "href": "release_notes.html#version-1.0-august-7th-2023",
+    "title": "Release Notes",
+    "section": "",
+    "text": "Initial release.\nWebsite published using Quarto.\nAnimation credit: Mickaël Canouil: Animate.css extension"
+  },
+  {
+    "objectID": "about/about.html",
+    "href": "about/about.html",
+    "title": " About",
+    "section": "",
+    "text": "My career spans over 35+ years in software development, covering all aspects of the SDLC, including application architecture, design and development.\nI’ve had the great fortune to work with many well-known companies and brands including: NBC Universal, AT&T, T-Mobile, Verizon, TradingView, HBO, Nokia, IBM, Snoop Dogg, Warner Brothers, among others.\nSoftware Development Books, Articles and Publications:\n• Author of a best-selling mobile application developer book that was published in five languages.\n• Published articles: PC Magazine, IBM, O’Reilly, SD Times, and many others.\n• Technical editor for numerous technical books.\nInterests:\n• Developer tools and integration of AI.\n• SEO: audits, keyword analysis, on-page SEO.\n• Technical analysis and trading tools/platforms.\n• Startups and new product development.\nI have the proven ability to quickly master new programming languages, tools and technologies. I’m an entrepreneur at heart with a passion for building software products. I am an effective communicator with both technical and business teams."
+  },
+  {
+    "objectID": "about/about.html#software-development-background-and-interests",
+    "href": "about/about.html#software-development-background-and-interests",
+    "title": " About",
+    "section": "",
+    "text": "My career spans over 35+ years in software development, covering all aspects of the SDLC, including application architecture, design and development.\nI’ve had the great fortune to work with many well-known companies and brands including: NBC Universal, AT&T, T-Mobile, Verizon, TradingView, HBO, Nokia, IBM, Snoop Dogg, Warner Brothers, among others.\nSoftware Development Books, Articles and Publications:\n• Author of a best-selling mobile application developer book that was published in five languages.\n• Published articles: PC Magazine, IBM, O’Reilly, SD Times, and many others.\n• Technical editor for numerous technical books.\nInterests:\n• Developer tools and integration of AI.\n• SEO: audits, keyword analysis, on-page SEO.\n• Technical analysis and trading tools/platforms.\n• Startups and new product development.\nI have the proven ability to quickly master new programming languages, tools and technologies. I’m an entrepreneur at heart with a passion for building software products. I am an effective communicator with both technical and business teams."
+  },
+  {
+    "objectID": "about/about.html#open-to-projects-and-career-opportunities",
+    "href": "about/about.html#open-to-projects-and-career-opportunities",
+    "title": " About",
+    "section": "Open to Projects and Career Opportunities",
+    "text": "Open to Projects and Career Opportunities\nLooking for an experienced software engineer/leader? Need a hand with trading tools or technical analysis? Please feel free to reach me via  or \n\n\n\n\n\n\nUseless Trivia\n\n\n\n\n\nMy 5 minutes of fame: I wrote Snoop Dogg’s first iPhone app, iFizzle, featured on the Tonight Show."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "John Muchow - Portfolio",
+    "section": "",
+    "text": "Welcome. My name is John Muchow. I have 35+ years of software design and development experience. I graduated in 1988 with a Master’s degree in Computer Science. I’ve written extensively about software development, including a best-selling mobile application developer book published in five languages."
+  },
+  {
+    "objectID": "index.html#portfolio",
+    "href": "index.html#portfolio",
+    "title": "John Muchow - Portfolio",
+    "section": "Portfolio",
+    "text": "Portfolio\nThis website is a portfolio covering much of my work in software development. My current focus is technical analysis and design/development of custom indicators for TradingView."
+  },
+  {
+    "objectID": "index.html#technical-indicators",
+    "href": "index.html#technical-indicators",
+    "title": "John Muchow - Portfolio",
+    "section": "Technical Indicators",
+    "text": "Technical Indicators\nI’ve had the great fortune to design and build custom trading tools with two professional traders, both who’ve competed in the U.S. Investing Championship.\n\nMatt Caruso\nMatt is a professional trader who had a 346% return in the 2020 U.S. Investing Championship. I did all the software design and development for Matt’s Growth Investor Charting Package:\n▪ Caruso Adaptive Relative Strength (CA|RS)\n▪ Caruso Divergence Relative Strength (CD|RS)\n▪ Caruso Financial Dashboard (CF|DB)\n▪ Caruso Market Dashboard (CM|DB)\n\n\n\nDavid Ryan\nDavid is a three time U.S Investing Champion: 1985, 1986, 1987. David was a Portfolio Manager at O’Neil & Co and worked directly with William O’Neil for many years. David and I collaborated on several custom indicators:\n▪ Ants — Momentum, Volume and Price (MVP) - In-depth analysis of momentum, volume & price action.\n▪ Multi-Timeframe Trend Analysis — Trend Boxes - View higher timeframe trend data all within one chart.\n\n\nTop Ranking TradingView Indicators\nMany of my TradingView indicators are quite popular, here are a few top-ranking tools:\n▪ RS Line - Gauge Performance vs Index\n▪ Power Trend Pro — Spot Powerful Uptrends\n▪ Darvas Box Theory — Tracking Uptrends\n▪ Earnings, Sales & Volume Dashboard\n▪ Moving Averages For All Timeframes\nHere’s more details on all my TradingView indicators"
+  },
+  {
+    "objectID": "index.html#blog---technical-analysis-educational-content",
+    "href": "index.html#blog---technical-analysis-educational-content",
+    "title": "John Muchow - Portfolio",
+    "section": "Blog - Technical Analysis & Educational Content",
+    "text": "Blog - Technical Analysis & Educational Content\nGiven my years of experience working with various software tools, creating custom chart annotations comes easy. One of my earliest forays into this area was creating charts to accompany Mike Webster’s Stock Market Update column for Investor’s Business Daily. Mike was previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager. Mike was a William O’Neil protege. You can view several of these annotations in the list below.\nI’ve also included content gathered from various blogs I’ve written over the years as well as more recent content that I’ve started to publish.\n\n\n\nVisit the technical analysis & educational content blog for a complete list of all posts."
+  },
+  {
+    "objectID": "blog/posts/06-29-2020/IBD Stock Market Update - Week of 6:29:20.html",
+    "href": "blog/posts/06-29-2020/IBD Stock Market Update - Week of 6:29:20.html",
+    "title": "IBD Stock Market Update – Week of 6/29/20",
+    "section": "",
+    "text": "Following are three charts I created to accompany the Investor’s Business Daily article The Raging Bull At New Highs written by Mike Webster, previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager."
+  },
+  {
+    "objectID": "blog/posts/06-08-2020/IBD Stock Market Update - Week of 6:08:20.html",
+    "href": "blog/posts/06-08-2020/IBD Stock Market Update - Week of 6:08:20.html",
+    "title": "IBD Stock Market Update – Week of 6/08/20",
+    "section": "",
+    "text": "Following are three charts I created to accompany the Investor’s Business Daily article The Raging Bull Avoids a TKO written by Mike Webster, previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager."
+  },
+  {
+    "objectID": "blog/posts/05-18-2020/IBD Stock Market Update - Week of 5:18:20.html",
+    "href": "blog/posts/05-18-2020/IBD Stock Market Update - Week of 5:18:20.html",
+    "title": "IBD Stock Market Update – Week of 5/25/2020",
+    "section": "",
+    "text": "Following are three charts I created to accompany the Investor’s Business Daily article Weekend Stock Market Update written by Mike Webster, previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager."
+  },
+  {
+    "objectID": "blog/posts/07-13-2020/IBD Stock Market Update - Week of 7:13:20.html",
+    "href": "blog/posts/07-13-2020/IBD Stock Market Update - Week of 7:13:20.html",
+    "title": "IBD Stock Market Update – Week of 7/13/20",
+    "section": "",
+    "text": "Following are charts I created to accompany the Investor’s Business Daily article The Raging Bull Vacation written by Mike Webster, previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager."
+  },
+  {
+    "objectID": "blog/posts/10-17-2020/Tightening Price Action.html",
+    "href": "blog/posts/10-17-2020/Tightening Price Action.html",
+    "title": "Tightening Price Action Preceding a Breakout",
+    "section": "",
+    "text": "In 1962, William Jiler referred to ‘tightening price action’ as a coil. It is also known as a symmetrical triangle. Price action of lower highs and higher lows, along with volume declining, will often lead to a breakout that follows in the direction of the prior trend."
+  },
+  {
+    "objectID": "blog/posts/10-17-2020/Tightening Price Action.html#historical-charts",
+    "href": "blog/posts/10-17-2020/Tightening Price Action.html#historical-charts",
+    "title": "Tightening Price Action Preceding a Breakout",
+    "section": "Historical Charts",
+    "text": "Historical Charts\nIt’s always interesting to look at historical charts. The more charts you view, the more obvious it becomes that nothing has changed with supply/demand and human psychology. Here’s a chart from 1944:\n\n\n\n\n\nApple (AAPL) has shown this consolidation pattern many times over the years. Here’s a chart from 1986:\n\n\n\n\n\nFollowing are charts for Zoom (ZM), both daily and weekly.\n\n\n\n\n\nAs the price is contracting, notice that the volume is also declining. Upon breakout, the price action continued in the direction of the prior trend. Notice the same action for Costco (COST).\n\n\n\n\n\nDaily and weekly charts of TSLA show consistent price tightening and declining volume.\n\n\n\n\n\nAs with all technical patterns, this is an art, not science. With that said, tightening price action with a decline in volume may foretell a continuation of the prior trend. It’s worth some time to study and look for this pattern."
+  },
+  {
+    "objectID": "blog/posts/11-20-2021/UPST and NVDA Technical Analysis.html",
+    "href": "blog/posts/11-20-2021/UPST and NVDA Technical Analysis.html",
+    "title": "UPST and NVDA Technical Analysis",
+    "section": "",
+    "text": "I’ve annotated two charts of Upstart (UPST) and Nvidia (NVDA), highlighting various technical patterns."
+  },
+  {
+    "objectID": "blog/posts/11-20-2021/UPST and NVDA Technical Analysis.html#nvda",
+    "href": "blog/posts/11-20-2021/UPST and NVDA Technical Analysis.html#nvda",
+    "title": "UPST and NVDA Technical Analysis",
+    "section": "NVDA",
+    "text": "NVDA"
+  },
+  {
+    "objectID": "blog/posts/11-20-2021/UPST and NVDA Technical Analysis.html#upst",
+    "href": "blog/posts/11-20-2021/UPST and NVDA Technical Analysis.html#upst",
+    "title": "UPST and NVDA Technical Analysis",
+    "section": "UPST",
+    "text": "UPST"
+  },
+  {
+    "objectID": "blog/posts/05-14-2020/2020-Nasdaq-Correction-Versus-1998.html",
+    "href": "blog/posts/05-14-2020/2020-Nasdaq-Correction-Versus-1998.html",
+    "title": "2020 Nasdaq Correction Versus 1998",
+    "section": "",
+    "text": "Here’s a visual summary highlighting the similarities of the 1998 Nasdaq market correction and market status as of April, 2020."
+  },
+  {
+    "objectID": "blog/posts/05-14-2020/2020-Nasdaq-Correction-Versus-1998.html#nasdaq-market-correction",
+    "href": "blog/posts/05-14-2020/2020-Nasdaq-Correction-Versus-1998.html#nasdaq-market-correction",
+    "title": "2020 Nasdaq Correction Versus 1998",
+    "section": "",
+    "text": "Here’s a visual summary highlighting the similarities of the 1998 Nasdaq market correction and market status as of April, 2020."
+  },
+  {
+    "objectID": "blog/posts/09-26-2021/Bitcoin-CANSLIM.html",
+    "href": "blog/posts/09-26-2021/Bitcoin-CANSLIM.html",
+    "title": "Bitcoin and CANSLIM Principles",
+    "section": "",
+    "text": "CANSLIM concepts and the daily chart of Bitcoin:\n▪ Large cup with high handle\n▪ 50% retracement from recent high\n▪ 41k has been both resistance and support"
+  },
+  {
+    "objectID": "blog/posts/05-25-2020/IBD Stock Market Update - Week of 5:25:20.html",
+    "href": "blog/posts/05-25-2020/IBD Stock Market Update - Week of 5:25:20.html",
+    "title": "IBD Stock Market Update – Week of 5/18/2020",
+    "section": "",
+    "text": "Following are three charts I created to accompany the Investor’s Business Daily article The Raging Bull Rests written by Mike Webster, previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager."
+  },
+  {
+    "objectID": "blog/posts/06-15-2020/IBD Stock Market Update - Week of 6:15:20.html",
+    "href": "blog/posts/06-15-2020/IBD Stock Market Update - Week of 6:15:20.html",
+    "title": "IBD Stock Market Update – Week of 6/22/20",
+    "section": "",
+    "text": "Following are three charts I created to accompany the Investor’s Business Daily article The Raging Bull Battle written by Mike Webster, previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager."
+  },
+  {
+    "objectID": "blog/posts/08-03-2023/Ascending Base.html",
+    "href": "blog/posts/08-03-2023/Ascending Base.html",
+    "title": "Ascending Base Pattern",
+    "section": "",
+    "text": "An ascending base has the following characteristics:\n▪ 3 pullbacks\n▪ 10% to 20% on each\n▪ Higher highs and higher lows\nThe buy point is where the price reaches a new high after the third pullback."
+  },
+  {
+    "objectID": "blog/posts/02-25-2023/Auto-generated AVWAP.html",
+    "href": "blog/posts/02-25-2023/Auto-generated AVWAP.html",
+    "title": "Historical Analysis of AVWAP Gap Ups",
+    "section": "",
+    "text": "I wrote a TradingView indicator to auto-detect Average Volume Weighted Average Price (AVWAP) gap ups. This historical analysis looks for specific entry criteria based on @Alphatrends book, Anchored VWAP.\n▪ Closes below AVWAP (pullback)\n▪ Lows above AVWAP (rally back above)\nThis same concept applies on multiple timeframes."
+  },
+  {
+    "objectID": "blog/posts/08-02-2023/Wedging.html",
+    "href": "blog/posts/08-02-2023/Wedging.html",
+    "title": "Wedging Pattern",
+    "section": "",
+    "text": "David Ryan, 3 time U.S Investing Champion, has shared numerous examples of wedging on IBD Live. In a wedge, stocks are typically in a downtrend. In this pattern, prices are showing lower highs and lower lows. This indicates a lack of upward momentum and usually precedes further weakness.\n\nCharacteristics of Wedging Stocks\n▪ Slow moves up, quick moves down\n▪ Wedges rarely make new highs\n▪ Volume is often below average\n▪ Lower highs and lower lows"
+  },
+  {
+    "objectID": "blog/posts/12-20-2020/RSLine vs RSRating.html",
+    "href": "blog/posts/12-20-2020/RSLine vs RSRating.html",
+    "title": "RS Line vs RS Rating - Cheat Sheet",
+    "section": "",
+    "text": "Although both values appear next to each other on a MarketSmith chart, the RS Line and RS Rating are quite different in what information they represent. To create a visual to indicate these values are unique, I’ve drawn a red box around the RS Line and a green box around the RS Rating."
+  },
+  {
+    "objectID": "blog/posts/12-20-2020/RSLine vs RSRating.html#rs-line",
+    "href": "blog/posts/12-20-2020/RSLine vs RSRating.html#rs-line",
+    "title": "RS Line vs RS Rating - Cheat Sheet",
+    "section": "RS Line",
+    "text": "RS Line\nThe RS Line represents a stock’s performance versus the S&P 500. If you are looking at a weekly chart, the RS Line is the performance of the stock over the past week versus the S&P 500 over that same time frame. The same logic applies to the daily and monthly charts, only the time frames are different.\nIf a stock moves up for the day/week/month and the S&P 500 does not, the RS Line will move up. If a stock ends the day/week/month flat, but the S&P 500 moves up, the RS Line will go down.\nThe daily chart can have a little more “noise” as it reflects price movements on a more frequent basis. Look to the weekly and monthly RS Line to get a view of the longer term trend."
+  },
+  {
+    "objectID": "blog/posts/12-20-2020/RSLine vs RSRating.html#rs-rating",
+    "href": "blog/posts/12-20-2020/RSLine vs RSRating.html#rs-rating",
+    "title": "RS Line vs RS Rating - Cheat Sheet",
+    "section": "RS Rating",
+    "text": "RS Rating\nThis value represents a stocks performance for one year compared to all stocks in the MarketSmith database. The value is double weighted for the most recent quarter. The best performing stocks will be a 99 and the worst 1.\nKeep in mind that the RS Rating is calculated as an average of all values over one year. Therefore, a gap up/down will have little impact on the RS Rating. Contrast that with the RS Line, which is calculated daily, weekly or monthly depending on the chart you are looking at."
+  },
+  {
+    "objectID": "blog/posts/06-22-2020/IBD Stock Market Update - Week of 6:22:20.html",
+    "href": "blog/posts/06-22-2020/IBD Stock Market Update - Week of 6:22:20.html",
+    "title": "IBD Stock Market Update – Week of 6/15/20",
+    "section": "",
+    "text": "Following are three charts I created to accompany the Investor’s Business Daily article The Raging Bull Battle written by Mike Webster, previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager."
+  },
+  {
+    "objectID": "blog/posts/10-08-2020/Divergence and True Market Leaders.html",
+    "href": "blog/posts/10-08-2020/Divergence and True Market Leaders.html",
+    "title": "Divergence and True Market Leaders",
+    "section": "",
+    "text": "One sign of a potential true market leader is when there is a divergence of the stock’s price action versus the overall market. In this post I’ll show several examples where the S&P 500 was moving down while a stock was moving up, preceding a large gain over the coming months.\nAlthough both values appear next to each other on a MarketSmith chart, the RS Line and RS Rating are quite different in what information they represent. To create a visual to indicate these values are unique, I’ve drawn a red box around the RS Line and a green box around the RS Rating."
+  },
+  {
+    "objectID": "blog/posts/10-08-2020/Divergence and True Market Leaders.html#ebay",
+    "href": "blog/posts/10-08-2020/Divergence and True Market Leaders.html#ebay",
+    "title": "Divergence and True Market Leaders",
+    "section": "EBAY",
+    "text": "EBAY\nEbay continued to move up for gain of 197% over 10 months."
+  },
+  {
+    "objectID": "blog/posts/10-08-2020/Divergence and True Market Leaders.html#okta",
+    "href": "blog/posts/10-08-2020/Divergence and True Market Leaders.html#okta",
+    "title": "Divergence and True Market Leaders",
+    "section": "OKTA",
+    "text": "OKTA\nThe chart for Okta is a little busy. Hopefully the gray shaded areas help to highlight the divergence between the S&P 500 making a sharp move down while at the same time Okta was making higher lows.\n\n\n\n\n\nIn only 5 months, Okta gained 109%."
+  },
+  {
+    "objectID": "blog/posts/10-08-2020/Divergence and True Market Leaders.html#zoom",
+    "href": "blog/posts/10-08-2020/Divergence and True Market Leaders.html#zoom",
+    "title": "Divergence and True Market Leaders",
+    "section": "ZOOM",
+    "text": "ZOOM\nThe weekly chart of Zoom shows an impressive run up. Notice that there was only one close below the 10-week moving average in over 38 weeks."
+  },
+  {
+    "objectID": "blog/posts/10-08-2020/Divergence and True Market Leaders.html#fubo",
+    "href": "blog/posts/10-08-2020/Divergence and True Market Leaders.html#fubo",
+    "title": "Divergence and True Market Leaders",
+    "section": "FUBO",
+    "text": "FUBO\nCurious if this same line of thinking applies to IPOs? One look at Fubotv reveals the answer."
+  },
+  {
+    "objectID": "blog/posts/03-26-2022/Power Outage.html",
+    "href": "blog/posts/03-26-2022/Power Outage.html",
+    "title": "Power Outage - A Power Trend Flipped on It’s Head",
+    "section": "",
+    "text": "Flip the Power Trend on its head and we end up with…a Power Outage ⚡️\nWhereas a Power Trend signals a powerful uptrend, a Power Outage highlights a strong downtrend. This concept was created with David Ryan, 3 time U.S Investing Champion 1985, 1986, 1987 and Portfolio Manager at William O’Neil & Co.\n\nQQQ\n\n\n\n\n\n\n\nNasdaq Composite\n\n\n\n\n\n\n\nS&P 500\n\n\n\n\n\n\n\nTSLA"
+  },
+  {
+    "objectID": "blog/posts/06-17-2020/Shakeout-Plus-3.html",
+    "href": "blog/posts/06-17-2020/Shakeout-Plus-3.html",
+    "title": "Shakeout + 3 (aka Shakeout Plus 3)",
+    "section": "",
+    "text": "In 1940, Jesse Livermore described a concept that eventually became known as a shakeout + 3, as described by William O’Neil.\nJesse’s idea was simple, after a shakeout to a low, if there is another shakeout that undercuts the previous low, the buy price becomes the previous low price plus 10% of that low. Jesse referred to this as a pivotal point.\nThe “+ 3” aspect came about as O’Neil’s example was based on a stock that was $30/share, hence, 10% of $30 is $3, so it was known as a shakeout + $3."
+  },
+  {
+    "objectID": "blog/posts/06-17-2020/Shakeout-Plus-3.html#calculating-shakeout",
+    "href": "blog/posts/06-17-2020/Shakeout-Plus-3.html#calculating-shakeout",
+    "title": "Shakeout + 3 (aka Shakeout Plus 3)",
+    "section": "Calculating Shakeout",
+    "text": "Calculating Shakeout\nOn November 3rd, 2020 AMD setup a potential shakeout + 3 early entry. It starts with a recent low undercutting a previous low:\n\n\n\n\n\nUsing the two lows shown above, here are the steps to calculate a shakeout + 3 entry point:\n\nStep #1 - Get two recent low values:\nOriginal low: $73.85 Undercut low: 73.76\n\n\nStep #2: Calculate prices at 5% and 10% of original low:\n5% of $73.85 = $3.70 10% of $73.85 = $7.40\n\n\nStep #3 - Calculate early entry range:\nThe range is the original low plus the 5% and 10% values from above: Range = $77.55 ($73.85 + $3.70) to $81.25 ($73.85 + $7.40)\n\n\nStep #4 - Look for an area of resistance:\nAs with the range, an area of resistance was not part of the original concept described by Livermore or O’Neil. Using prior resistance you can find a more logical area to enter a trade.\nIn the figure below I’ve highlighted the early entry range ($77.55 to $81.25). The orange line is an area of resistance, notice several times in the past the price action didn’t move beyond that level."
+  },
+  {
+    "objectID": "blog/posts/06-17-2020/Shakeout-Plus-3.html#shakeout-3---cheat-sheets",
+    "href": "blog/posts/06-17-2020/Shakeout-Plus-3.html#shakeout-3---cheat-sheets",
+    "title": "Shakeout + 3 (aka Shakeout Plus 3)",
+    "section": "Shakeout +3 - Cheat Sheets",
+    "text": "Shakeout +3 - Cheat Sheets"
+  },
+  {
+    "objectID": "blog/posts/05-10-2020/Power-Trend.html",
+    "href": "blog/posts/05-10-2020/Power-Trend.html",
+    "title": "Power Trends and How to Spot Them on a Chart",
+    "section": "",
+    "text": "Here are the primary considerations for a market to be considered in a Power Trend\n\nLow above the 21-day for 10 consecutive days.\n21-day above the 50-day for five days, without a break below the 50-day.\n50-day in an uptrend.\n\nIf the criteria above are met, for a power trend to begin, it must be an up day. Once the 21-day crosses below the 50-day that is a sign the trend may be coming to an end. There are “circuit-breaker rules” that can end a PT before the 21-day to 50-day crossover.\nIt should be noted, I am using the Nasdaq for all the charts that follow."
+  },
+  {
+    "objectID": "blog/posts/05-10-2020/Power-Trend.html#what-is-a-power-trend",
+    "href": "blog/posts/05-10-2020/Power-Trend.html#what-is-a-power-trend",
+    "title": "Power Trends and How to Spot Them on a Chart",
+    "section": "",
+    "text": "Here are the primary considerations for a market to be considered in a Power Trend\n\nLow above the 21-day for 10 consecutive days.\n21-day above the 50-day for five days, without a break below the 50-day.\n50-day in an uptrend.\n\nIf the criteria above are met, for a power trend to begin, it must be an up day. Once the 21-day crosses below the 50-day that is a sign the trend may be coming to an end. There are “circuit-breaker rules” that can end a PT before the 21-day to 50-day crossover.\nIt should be noted, I am using the Nasdaq for all the charts that follow."
+  },
+  {
+    "objectID": "blog/posts/05-10-2020/Power-Trend.html#to-2018-power-trend",
+    "href": "blog/posts/05-10-2020/Power-Trend.html#to-2018-power-trend",
+    "title": "Power Trends and How to Spot Them on a Chart",
+    "section": "2016 to 2018 Power Trend",
+    "text": "2016 to 2018 Power Trend\nA sginficiant Power Trend began in November of 2016. This trend continued until February of 2018. That’s an impressive 60+ weeks!"
+  },
+  {
+    "objectID": "blog/posts/05-10-2020/Power-Trend.html#second-power-trend-in-2018",
+    "href": "blog/posts/05-10-2020/Power-Trend.html#second-power-trend-in-2018",
+    "title": "Power Trends and How to Spot Them on a Chart",
+    "section": "Second Power Trend in 2018",
+    "text": "Second Power Trend in 2018\n2018 saw a second Power Trend, starting at the end of May and going into October."
+  },
+  {
+    "objectID": "blog/posts/05-10-2020/Power-Trend.html#may-of-2020-power-trend",
+    "href": "blog/posts/05-10-2020/Power-Trend.html#may-of-2020-power-trend",
+    "title": "Power Trends and How to Spot Them on a Chart",
+    "section": "May of 2020, Power Trend",
+    "text": "May of 2020, Power Trend\nBeginning on May 8th, yet another Power Trend."
+  },
+  {
+    "objectID": "blog/posts/05-10-2020/Power-Trend.html#more-power-trend-examples",
+    "href": "blog/posts/05-10-2020/Power-Trend.html#more-power-trend-examples",
+    "title": "Power Trends and How to Spot Them on a Chart",
+    "section": "More Power Trend Examples",
+    "text": "More Power Trend Examples\nIn addition to the dates above, here are three more Power Trends to research:\nJan. 31, 2019, to May 22, 2019\nJuly 3, 2019, to Aug. 14, 2019\nOct. 24, 2019, to Feb. 27, 2020"
+  },
+  {
+    "objectID": "blog/posts/09-23-2020/Telltale Signs of a Market Correction.html",
+    "href": "blog/posts/09-23-2020/Telltale Signs of a Market Correction.html",
+    "title": "Telltale Signs of a Market Correction",
+    "section": "",
+    "text": "David Ryan, 3 time U.S Investing Champion 1985, 1986, 1987 recently walked through a number of clues that may indicate the market is in a correction.\nBelow is an annotated chart of QQQ highlighting key points along with additional notes as it relates to the moving averages and RS Line."
+  },
+  {
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Technical Analysis & Educational Content",
+    "section": "",
+    "text": "Technical analysis & educational content focused on trading growth stocks.\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nAscending Base Pattern\n\n\n\n\n\n\nAug 3, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWedging Pattern\n\n\n\n\n\n\nAug 2, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nHistorical Analysis of AVWAP Gap Ups\n\n\n\n\n\n\nFeb 25, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nPower Outage - A Power Trend Flipped on It’s Head\n\n\n\n\n\n\nFeb 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nUPST and NVDA Technical Analysis\n\n\n\n\n\n\nNov 20, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nBitcoin and CANSLIM Principles\n\n\n\n\n\n\nSep 26, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nRS Line vs RS Rating - Cheat Sheet\n\n\n\n\n\n\nDec 20, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nTightening Price Action Preceding a Breakout\n\n\n\n\n\n\nOct 17, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nDivergence and True Market Leaders\n\n\n\n\n\n\nOct 8, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nTelltale Signs of a Market Correction\n\n\n\n\n\n\nSep 23, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nIBD Stock Market Update – Week of 7/13/20\n\n\n\n\n\n\nJul 13, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nIBD Stock Market Update – Week of 6/29/20\n\n\n\n\n\n\nJun 29, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nIBD Stock Market Update – Week of 6/22/20\n\n\n\n\n\n\nJun 22, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nShakeout + 3 (aka Shakeout Plus 3)\n\n\n\n\n\n\nJun 17, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nIBD Stock Market Update – Week of 6/15/20\n\n\n\n\n\n\nJun 15, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nIBD Stock Market Update – Week of 6/08/20\n\n\n\n\n\n\nJun 8, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nIBD Stock Market Update – Week of 5/25/2020\n\n\n\n\n\n\nMay 25, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nIBD Stock Market Update – Week of 5/18/2020\n\n\n\n\n\n\nMay 18, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n2020 Nasdaq Correction Versus 1998\n\n\n\n\n\n\nMay 14, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nPower Trends and How to Spot Them on a Chart\n\n\n\n\n\n\nMay 10, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "books-articles/books-articles.html",
+    "href": "books-articles/books-articles.html",
+    "title": " Writing",
+    "section": "",
+    "text": "Core J2MEPC MagazineIBM developerWorksJBuilderDeveloper.comInformITDr. Dobbs / mFoundry\n\n\nCore J2ME was published in 2000. It was one of the first books that focused on mobile app development, specifically J2ME , a platform designed to write portable code for mobile devices (phones and personal digital assistants) as well as embedded devices (micro-controllers, sensors, gateways and TV set-top boxes).\nThe book was a best-seller on Amazon in the mobile development category and was published in five languages.\n\n\n\n\n\n\n\n\n\nPC Magazine published the article Inside JavaBeans on October 6, 1998. This technical article focused on the JavaBeans API, a model for creating reusable software components with Java.\nPC Magazine, Oct 6, 1998 - Volume 17, No. 17\n\n\n\n\n\n\n\n\n\nI wrote a long-running series of articles over the course of X years for the now defunct, IBM developerWorks. I have the titles of the articles and the Wayback Machines, however, given the website required a login to read articles, the content is no longer available. With that said, some content (as of 2023) was still available on the Internet Archive Wayback Machine. In these instances, there will be a Wayback Machine to the archived content.\nFollowing are summaries of all the articles I published:\n\n\nIn this new Web development series, learn how to develop Google gadgets. Wayback Machine\n\n\nPart 2 of the Building Google gadgets series introduces the advanced features of gadgets. Wayback Machine\n\n\nThis tutorial goes through the steps to build a simple file and directory explorer application. It includes moving through a directory hierarchy, viewing file permissions, and opening and reading a file’s contents. Wayback Machine\n\n\nThis tutorial presents the basic principles for working with both animated and nonanimated sprites. Wayback Machine\n\n\nThis tutorial provides an overview of how to encrypt application-related data in a Java 2 Micro Edition (J2ME) application (MIDlet). Wayback Machine\n\n\nIn this tutorial you will learn about the essential components of J2ME, with a primary focus on MIDP. Wayback Machine\n\n\nIn this second tutorial we’ll walk through the basics of creating and working with the Canvas and Graphics classes. Wayback Machine\n\n\nIn this article we cover the basics of storing information in non-volatile memory, using a storage system called the Record Management System (RMS). Wayback Machine\n\n\nIn this final installment, we discuss the Generic Connection Framework (GCF), which provides an extensible, generic I/O framework for resource constrained devices. Wayback Machine\n\n\nLearn how to use threads in MIDlets to communicate over a network connection. Wayback Machine\n\n\nThe Wireless Toolkit is an integrated development environment (IDE) for creating Java 2 Platform, Micro Edition (J2ME) applications, commonly referred to as MIDlets. Wayback Machine\n\nThanks to more enhanced sound support in Mobile Information Device Protocol (MIDP) 2.0, you can now create Java-based wireless applications that offer a range of sounds, from simple tones to playing WAV files. Wayback Machine\n\n\nThis tutorials focuses on application development for mobile devices using an application programming interface (API) known as the Mobile Information Device Profile (MIDP). http://Wayback Machine 2003\n\n\nThis tutorial demonstrates how to download and display images with J2ME (Java 2 Micro Edition) and the Mobile Information Device Profile (MIDP). Wayback Machine\n\n\nThis tutorial will walk through the basics of using Push technology with MIDP 2.0, including development of a MIDlet that will be activated based on an incoming SMS message (Simple Message Service). Wayback Machine\n\n\nJBuilder was an integrated development environment created by Borland, to build Java applications. It was originally released in the late 90’s. JBuilder was purchased by Embarcadero Technologies in 2008.\nI wrote the following technical articles for the JBuilder newsletter:\n— May 1998 – Distributed computing using RMI (remote method invocation)\n— Dec 1997 – Comparing JBuilder and IBM VisualAge\n— Oct 1997 – What’s behind those wizards? Part 1\n— Nov 1997 – What’s behind those wizards? Part 2\n— Sep 1997 – Creating a Castanet channel\n\nI have the original articles and images. If time allows, I’ll recreate the documents and post the entire article contents.\n\n\n\n\n\nJava Editions\nWhy J2ME?\nConfigurations\nProfiles\nJava Virtual Machines\nBig Picture View of the Architecture\nCompatibility between Java Editions\nPutting all the Pieces Together\n\n\n\n\n\nThe Basics of J2ME\nSun created the Java 2 Micro Edition (J2ME) to allow development of Java applications for devices that do not have the same processing power and memory found on a typical desktop platform. This includes cellular phones, PDAs, pagers, entertainment and automotive navigation systems, to name a few. Read here to learn about J2ME’s configurations, application programming interfaces, and device profiles.\n\nMobile Java with J2ME\nMobile Java is a rapidly changing area. However, the associated Java development toolkits are well engineered and they include a plethora of easy to follow examples. This helps to reduce the cost of entry into this domain. To find out some more examples, read on.\n\n\nWhile working as the Developer Relations lead at mFoundry, an early player in mobile payments, I wrote an article for Dr. Dobb’s describing Mojax, mFoundry’s platform for building mobile applications using AJAX technologies, JavaScript, CSS and XML."
+  },
+  {
+    "objectID": "books-articles/books-articles.html#books-publications",
+    "href": "books-articles/books-articles.html#books-publications",
+    "title": " Writing",
+    "section": "",
+    "text": "Core J2MEPC MagazineIBM developerWorksJBuilderDeveloper.comInformITDr. Dobbs / mFoundry\n\n\nCore J2ME was published in 2000. It was one of the first books that focused on mobile app development, specifically J2ME , a platform designed to write portable code for mobile devices (phones and personal digital assistants) as well as embedded devices (micro-controllers, sensors, gateways and TV set-top boxes).\nThe book was a best-seller on Amazon in the mobile development category and was published in five languages.\n\n\n\n\n\n\n\n\n\nPC Magazine published the article Inside JavaBeans on October 6, 1998. This technical article focused on the JavaBeans API, a model for creating reusable software components with Java.\nPC Magazine, Oct 6, 1998 - Volume 17, No. 17\n\n\n\n\n\n\n\n\n\nI wrote a long-running series of articles over the course of X years for the now defunct, IBM developerWorks. I have the titles of the articles and the Wayback Machines, however, given the website required a login to read articles, the content is no longer available. With that said, some content (as of 2023) was still available on the Internet Archive Wayback Machine. In these instances, there will be a Wayback Machine to the archived content.\nFollowing are summaries of all the articles I published:\n\n\nIn this new Web development series, learn how to develop Google gadgets. Wayback Machine\n\n\nPart 2 of the Building Google gadgets series introduces the advanced features of gadgets. Wayback Machine\n\n\nThis tutorial goes through the steps to build a simple file and directory explorer application. It includes moving through a directory hierarchy, viewing file permissions, and opening and reading a file’s contents. Wayback Machine\n\n\nThis tutorial presents the basic principles for working with both animated and nonanimated sprites. Wayback Machine\n\n\nThis tutorial provides an overview of how to encrypt application-related data in a Java 2 Micro Edition (J2ME) application (MIDlet). Wayback Machine\n\n\nIn this tutorial you will learn about the essential components of J2ME, with a primary focus on MIDP. Wayback Machine\n\n\nIn this second tutorial we’ll walk through the basics of creating and working with the Canvas and Graphics classes. Wayback Machine\n\n\nIn this article we cover the basics of storing information in non-volatile memory, using a storage system called the Record Management System (RMS). Wayback Machine\n\n\nIn this final installment, we discuss the Generic Connection Framework (GCF), which provides an extensible, generic I/O framework for resource constrained devices. Wayback Machine\n\n\nLearn how to use threads in MIDlets to communicate over a network connection. Wayback Machine\n\n\nThe Wireless Toolkit is an integrated development environment (IDE) for creating Java 2 Platform, Micro Edition (J2ME) applications, commonly referred to as MIDlets. Wayback Machine\n\nThanks to more enhanced sound support in Mobile Information Device Protocol (MIDP) 2.0, you can now create Java-based wireless applications that offer a range of sounds, from simple tones to playing WAV files. Wayback Machine\n\n\nThis tutorials focuses on application development for mobile devices using an application programming interface (API) known as the Mobile Information Device Profile (MIDP). http://Wayback Machine 2003\n\n\nThis tutorial demonstrates how to download and display images with J2ME (Java 2 Micro Edition) and the Mobile Information Device Profile (MIDP). Wayback Machine\n\n\nThis tutorial will walk through the basics of using Push technology with MIDP 2.0, including development of a MIDlet that will be activated based on an incoming SMS message (Simple Message Service). Wayback Machine\n\n\nJBuilder was an integrated development environment created by Borland, to build Java applications. It was originally released in the late 90’s. JBuilder was purchased by Embarcadero Technologies in 2008.\nI wrote the following technical articles for the JBuilder newsletter:\n— May 1998 – Distributed computing using RMI (remote method invocation)\n— Dec 1997 – Comparing JBuilder and IBM VisualAge\n— Oct 1997 – What’s behind those wizards? Part 1\n— Nov 1997 – What’s behind those wizards? Part 2\n— Sep 1997 – Creating a Castanet channel\n\nI have the original articles and images. If time allows, I’ll recreate the documents and post the entire article contents.\n\n\n\n\n\nJava Editions\nWhy J2ME?\nConfigurations\nProfiles\nJava Virtual Machines\nBig Picture View of the Architecture\nCompatibility between Java Editions\nPutting all the Pieces Together\n\n\n\n\n\nThe Basics of J2ME\nSun created the Java 2 Micro Edition (J2ME) to allow development of Java applications for devices that do not have the same processing power and memory found on a typical desktop platform. This includes cellular phones, PDAs, pagers, entertainment and automotive navigation systems, to name a few. Read here to learn about J2ME’s configurations, application programming interfaces, and device profiles.\n\nMobile Java with J2ME\nMobile Java is a rapidly changing area. However, the associated Java development toolkits are well engineered and they include a plethora of easy to follow examples. This helps to reduce the cost of entry into this domain. To find out some more examples, read on.\n\n\nWhile working as the Developer Relations lead at mFoundry, an early player in mobile payments, I wrote an article for Dr. Dobb’s describing Mojax, mFoundry’s platform for building mobile applications using AJAX technologies, JavaScript, CSS and XML."
+  },
+  {
+    "objectID": "books-articles/books-articles.html#technical-editor",
+    "href": "books-articles/books-articles.html#technical-editor",
+    "title": " Writing",
+    "section": "Technical Editor",
+    "text": "Technical Editor\nI was technical editor for the following books. This work included proofreading content and testing/rewriting programming examples.\n\niPhone Developer’s Cookbook\n\niPhone SDK Development\n\nCore JavaServer Faces\n\nNetBeans IDE"
+  }
+]

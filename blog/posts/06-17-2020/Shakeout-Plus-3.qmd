@@ -1,0 +1,50 @@
+---
+title: Shakeout + 3 (aka Shakeout Plus 3)
+date: 06-17-2020
+filters:
+   - lightbox
+lightbox: auto
+---
+
+In 1940, Jesse Livermore described a concept that eventually became known as a shakeout + 3, as described by William O’Neil.
+
+Jesse’s idea was simple, after a shakeout to a low, if there is another shakeout that undercuts the previous low, the buy price becomes the previous low price plus 10% of that low. Jesse referred to this as a pivotal point.
+
+The “+ 3” aspect came about as O’Neil’s example was based on a stock that was $30/share, hence, 10% of $30 is $3, so it was known as a shakeout + $3.
+
+## Calculating Shakeout
+
+On November 3rd, 2020 AMD setup a potential shakeout + 3 early entry. It starts with a recent low undercutting a previous low:
+
+![](AMD-1.png){height="400"}
+
+Using the two lows shown above, here are the steps to calculate a shakeout + 3 entry point:
+
+### Step #1 - Get two recent low values:
+
+Original low: $73.85
+Undercut low: 73.76
+
+### Step #2: Calculate prices at 5% and 10% of original low:
+
+5% of $73.85 = $3.70
+10% of $73.85 = $7.40
+
+### Step #3 - Calculate early entry range:
+
+The range is the original low plus the 5% and 10% values from above:
+Range = $77.55 ($73.85 + $3.70) to $81.25 ($73.85 + $7.40)
+
+### Step #4 - Look for an area of resistance:
+
+As with the range, an area of resistance was not part of the original concept described by Livermore or O’Neil. Using prior resistance you can find a more logical area to enter a trade.
+
+In the figure below I’ve highlighted the early entry range ($77.55 to $81.25). The orange line is an area of resistance, notice several times in the past the price action didn’t move beyond that level.
+
+![](AMD-2.png){height="400"}
+
+## Shakeout +3 - Cheat Sheets
+
+![](Shakeout-3a.png){fig-alt="CSCO and VEEV Shakeout Plus 3" height="500"}
+
+![](Shakeout-3b.jpg){fig-alt="AMD Shakeout + 3" height="600"}

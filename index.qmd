@@ -1,0 +1,82 @@
+---
+sidebar: false
+description: ""
+image: quarto.png
+toc: false
+listing:
+  date-format: medium
+  feed: true
+  filter-ui: false
+  type: table
+  max-items: 12
+  sort-ui: false
+  sort: "date desc"
+  categories: false
+  fields: [date, title]
+  id: blog-posts
+  contents: [blog/posts]
+format:
+  html:
+    anchor-sections: true
+---
+
+::: {layout="[21,79]" .profile-header}
+
+![](jm-low-res.png){.profile-pic}
+
+Welcome. My name is John Muchow. I have 35+ years of software design and development experience. I graduated in 1988 with a Master's degree in Computer Science. I've written extensively about software development, including a best-selling mobile application developer book published in five languages. 
+
+:::
+
+## Portfolio
+
+This website is a portfolio covering much of my work in software development. My current focus is technical analysis and design/development of custom indicators for [TradingView](https://www.tradingview.com/u/JohnMuchow/#published-scripts).
+
+
+## Technical Indicators
+
+I've had the great fortune to design and build custom trading tools with two professional traders, both who've competed in the U.S. Investing Championship. 
+
+#### Matt Caruso
+
+[Matt](https://twitter.com/Trader_mcaruso) is a professional trader who had a 346% return in the 2020 U.S. Investing Championship. I did all the software design and development for Matt's Growth Investor Charting Package:
+
+▪ [Caruso Adaptive Relative Strength (CA|RS)](https://www.carusoinsights.com/cars/)  
+▪ [Caruso Divergence Relative Strength (CD|RS)](https://www.carusoinsights.com/cdrs/)  
+▪ [Caruso Financial Dashboard (CF|DB)](https://www.carusoinsights.com/cfdb/)  
+▪ [Caruso Market Dashboard (CM|DB)](Caruso Market Dashboard (CM|DB))  
+
+---
+#### David Ryan
+
+[David](https://twitter.com/dryan310) is a three time U.S Investing Champion: 1985, 1986, 1987. David was a Portfolio Manager at O’Neil & Co and worked directly with William O'Neil for many years. David and I collaborated on several custom indicators:
+
+▪ [Ants — Momentum, Volume and Price (MVP)](https://www.tradingview.com/script/uEaFv7tm-Ants-Momentum-Volume-and-Price-MVP/) - In-depth analysis of momentum, volume & price action.
+
+▪ [Multi-Timeframe Trend Analysis — Trend Boxes](https://www.tradingview.com/script/U4WMgkJl-Multi-Timeframe-Trend-Analysis-Trend-Boxes/) - View higher timeframe trend data all within one chart. 
+
+
+#### Top Ranking TradingView Indicators  
+
+Many of my TradingView indicators are quite popular, here are a few top-ranking tools:
+
+▪ [RS Line - Gauge Performance vs Index](https://www.tradingview.com/script/cClLGtbd-RS-Line-Gauge-Performance-vs-Index/)  
+▪ [Power Trend Pro — Spot Powerful Uptrends](https://www.tradingview.com/script/CzyVIdMM-Power-Trend-Pro-Spot-Powerful-Uptrends/)  
+▪ [Darvas Box Theory — Tracking Uptrends](https://www.tradingview.com/script/ygJLhYt4-Darvas-Box-Theory-Tracking-Uptrends/)  
+▪ [Earnings, Sales & Volume Dashboard](https://www.tradingview.com/script/qqB8wb8H-Earnings-Sales-Volume-Dashboard/)  
+▪ [Moving Averages For All Timeframes](https://www.tradingview.com/script/fxAXf8hu-Moving-Averages-For-All-Timeframes/)  
+
+Here's more details on all my [TradingView indicators](https://www.tradingview.com/u/JohnMuchow/#published-scripts)
+
+
+## Blog - Technical Analysis & Educational Content
+
+Given my years of experience working with various software tools, creating custom chart annotations comes easy. One of my earliest forays into this area was creating charts to accompany [Mike Webster's](http://twitter.com/mwebster1971) [Stock Market Update](https://www.investors.com/tag/weekend-stock-market-update/) column for Investor's Business Daily. Mike was previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager. Mike was a William O'Neil protege. You can view several of these annotations in the list below. 
+
+I've also included content gathered from various blogs I've written over the years as well as more recent content that I've started to publish.
+
+::: {#blog-listings}
+:::
+
+Visit the [technical analysis & educational content blog](https://johnmuchow.github.io/blog/blog.html) for a complete list of all posts.
+

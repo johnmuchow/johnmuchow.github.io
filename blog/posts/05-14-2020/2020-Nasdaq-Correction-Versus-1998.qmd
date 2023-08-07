@@ -1,0 +1,13 @@
+---
+title: 2020 Nasdaq Correction Versus 1998
+date: 05-14-2020
+filters:
+   - lightbox
+lightbox: auto
+---
+
+## 1998 Nasdaq Market Correction
+
+Here's a visual summary highlighting the similarities of the 1998 Nasdaq market correction and market status as of April, 2020.
+
+![](1998.png){height="550"}

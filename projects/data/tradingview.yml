@@ -1,0 +1,114 @@
+- project: "Power Trend Pro — Spot Powerful Uptrends"
+  path: https://www.tradingview.com/script/CzyVIdMM-Power-Trend-Pro-Spot-Powerful-Uptrends/
+  tech: Pine Script, AVWAP
+  description: |
+    Power Trend as defined by William O'Neil, founder of Investor's Business Daily.
+
+- project: "Multi-Timeframe Trend Analysis — Trend Boxes"
+  path: https://www.tradingview.com/script/U4WMgkJl-Multi-Timeframe-Trend-Analysis-Trend-Boxes/
+  tech: Pine Script, AVWAP
+  description: |
+    Multi-timeframe trend analysis, created with professional trader David Ryan, three-time winner of the U.S. Investing Championship.
+
+- project: "50% Retracement — Support & Resistance"
+  path: https://www.tradingview.com/script/O2rakTRA-50-Retracement-Support-Resistance/
+  tech: Pine Script, AVWAP
+  description: |
+    Implemetation 50% retracement based on the work of W.D. Gann.
+
+- project: "AVWAP Moving Average"
+  path: https://www.tradingview.com/script/xp1jCARi-AVWAP-Moving-Average/
+  tech: Pine Script, AVWAP
+  description: |
+    Using AVWAP, manage the moving average period based on the chart timeframe.
+
+- project: "Mini Coil With Real Range"
+  path: https://www.tradingview.com/script/LGrkD0nL-Mini-Coil-With-Real-Range/
+  tech: Pine Script
+  description: |
+    Detect coiling action that represents a tightening of volatility.
+
+- project: "Relative Strength Moving Average Crossover"
+  path: https://www.tradingview.com/script/ar2pi6Hh-Relative-Strength-Moving-Average-Crossover/
+  tech: Pine Script
+  description: |
+    Combines moving average crossover with the Relative Strength Line, created by William O’Neil.
+
+- project: "Marked Highs/Lows — Support & Resistance"
+  path: https://www.tradingview.com/script/S6TEtywL-Marked-Highs-Lows-Support-Resistance/
+  tech: Pine Script
+  description: |
+    Mimics marked highs/lows in MarketSmith, a charting tool available from Investor's Business Daily.
+
+- project: "Relative Volume Pro - Realtime Volume Flow"
+  path: https://www.tradingview.com/script/h0nisoXi-Relative-Volume-Pro-Realtime-Volume-Flow/
+  tech: Pine Script
+  description: |
+    Compares current volume versus the prior volume at the same time of day.
+
+
+- project: "Darvas Box Theory — Tracking Uptrends"
+  path: https://www.tradingview.com/script/ygJLhYt4-Darvas-Box-Theory-Tracking-Uptrends/
+  tech: Pine Script
+  description: |
+    Darvas box theory based on the work of Nicolas Darvas, author of the book "How I Made $2 Million in the Stock Market". 
+
+- project: "Earnings, Sales & Volume Dashboard"
+  path: https://www.tradingview.com/script/qqB8wb8H-Earnings-Sales-Volume-Dashboard/
+  tech: Pine Script
+  description: |
+    View earnings per share (EPS) and sales data for Year-over-Year (YoY) and/or Quarter-on-Quarter (QoQ).
+
+
+- project: "Ants — Momentum, Volume and Price (MVP)"
+  path: https://www.tradingview.com/script/uEaFv7tm-Ants-Momentum-Volume-and-Price-MVP/
+  tech: Pine Script
+  description: |
+    Detect current trends. Created with professional trader David Ryan, three-time winner of the U.S. Investing Championship.
+
+- project: "Moving Averages For All Timeframes"
+  path: https://www.tradingview.com/script/fxAXf8hu-Moving-Averages-For-All-Timeframes/
+  tech: Pine Script
+  description: |
+    Manage moving averages, for every timeframe, from within one indicator.
+
+
+- project: "Volume Positive Negative (VPN)"
+  path: https://www.tradingview.com/script/jYSKZ6vd-Volume-Positive-Negative-VPN/
+  tech: Pine Script
+  description: |
+    Based on work of Markos Katsanos in Technical Analysis of Stocks & Commodities April, 2021 (Vol. 39, Issue 5).
+
+
+- project: "Volume with Configurable Moving Averages"
+  path: https://www.tradingview.com/script/amMkK1fO-Volume-with-Configurable-Moving-Averages/
+  tech: Pine Script
+  description: |
+    Volume with Configurable Moving Averages displays volume based on the current timeframe.
+
+- project: "Price Stats"
+  path: https://www.tradingview.com/script/ZsH7XQwt-Price-Stats/
+  tech: Pine Script
+  description: |
+    Mimic Price Stats dagta shown in MarketSmith, a charting tool available from Investor's Business Daily.
+
+- project: "3 Weeks Tight - CANSLIM Technical Indicator"
+  path: https://www.tradingview.com/script/NHt4hBzv-3-Weeks-Tight-CANSLIM-Technical-Indicator/
+  tech: Pine Script
+  description: |
+    3 weeks tight is a bullish continuation pattern discovered by IBD's founder, William O'Neil.
+
+- project: "RS Line - Gauge Performance vs Index"
+  path: https://www.tradingview.com/script/cClLGtbd-RS-Line-Gauge-Performance-vs-Index/
+  tech: Pine Script
+  description: |
+    Mimic RS Line in MarketSmith, a charting tool available from Investor's Business Daily.
+
+- project: "Webby's RSI (Really Simple Indicator)"
+  path: https://www.tradingview.com/script/SkO2zea5-Webby-s-RSI-Really-Simple-Indicator/
+  tech: Pine Script
+  description: |
+    Webby's RSI (Really Simple Indicator) created by Mike Webster, previously a portfolio manager for William O'Neil, founder of Investor's Business Daily.
+
+
+

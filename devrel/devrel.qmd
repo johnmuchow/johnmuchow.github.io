@@ -1,0 +1,49 @@
+---
+title: '<i class="bi bi-tools"></i> Developer Relations'
+description: Since 1998 I've been involved in Developer Education and Developer Relations. I truly enjoy working with developers and developer communities. Following are brief summaries of my work creating, evangelizing and supporting developer communities.
+
+image: ""
+sidebar: false
+---
+
+## Developer Relations & Education
+
+::: {.panel-tabset}
+## Current
+
+My current work includes writing many [technical indicators](https://www.tradingview.com/u/JohnMuchow/#published-scripts), both open/closed source for the [TradingView](https://tradingview.com) platform. I've also written many how-to articles on TradingView's proprietary language, [Pine Script](https://www.tradingview.com/pine-script-docs/en/v5/Introduction.html). 
+
+I've also written applications and tutorials based on technical analysis concepts published by [Investor's Business Daily](https://www.investors.com). In addition, I wrote several applications for TD Ameritrade's [ThinkOrSwim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim.html) platform.
+
+## mFoundry
+
+I was the developer relations lead for mFoundry. mFoundry was an early player in the mobile payments space. The platform was called Mojax, short for Mobile Ajax. Mojax was a framework that leveraged the technologies that make [AJAX](https://en.wikipedia.org/wiki/Ajax_programming) a compelling platform for web development (JavaScript, CSS and XML) and extended the concepts to build mobile applications.
+
+
+**Mojax Wins Best Mobile Developer Tool**  
+One huge milestone while evangelizing Mojax was winning the Jolt award for the best mobile developer platform. For those unfamiliar with the Jolt award, [Dr. Dobb's Excellence in Programming Award](https://en.wikipedia.org/wiki/Dr._Dobb%27s_Excellence_in_Programming_Award), was given to individuals or teams that:
+
+ >  "made significant contributions to the advancement of software development."
+
+<div style="width:200px; height:300px">
+[![](jolt.png)]()
+</div>
+
+
+## Sun Microsystems
+
+Based on my subject matter expertise with [J2ME](https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition) - read more about my J2ME book [Core J2ME](https://a.co/d/iFvpr8W) - I was approached by Sun Microsystems to join their team as a Sr. Software Architect and developer advocate for all mobile developer tools. All tools were built on the [NetBeans](https://netbeans.apache.org//) platform. NetBeans has since been acquired by Apache.org
+
+## Nokia
+
+Based on my work (at the time) with [J2ME](https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition) and my mobile developer book - [Core J2ME](https://a.co/d/iFvpr8W) - Nokia inquired if I would join their developer relations team to help design, build and grow their developer community.
+
+I presented at many developer events and wrote numerous tutorials for their developer community, known as Forum Nokia. I also helped to build relationships with third-party developers interested in designing and developing games for Nokia devices.
+
+## Vignette
+
+From 1998 to late 2000, I was a Sr. Developer Trainer and Partner Integration Lead for Vignette. Vignette was a web framework built on [JavaServer Pages](https://www.oracle.com/java/technologies/jspt.html) designed to create large scale Content Management Systems (CMS).
+
+I was also the Train-the-Trainer Program Manager, working with consultants and companies around the globe to educate and evangelize Vignette's developer tools.
+
+:::

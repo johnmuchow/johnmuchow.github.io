@@ -1,0 +1,13 @@
+---
+title: IBD Stock Market Update – Week of 6/08/20
+date: 06-08-2020
+filters:
+   - lightbox
+lightbox: auto
+---
+
+Following are three charts I created to accompany the Investor's Business Daily article [The Raging Bull Avoids a TKO](https://www.investors.com/market-trend/stock-market-update-raging-bull-avoids-tko/) written by [Mike Webster](http://twitter.com/mwebster1971), previously IBD Head Market Strategist, O'Neil Capital Portfolio Manager.
+
+![](chart1.png){height="500"}
+
+![](chart2.png){height="500"}

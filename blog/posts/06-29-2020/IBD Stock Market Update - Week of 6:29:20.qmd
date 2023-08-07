@@ -1,0 +1,15 @@
+---
+title: IBD Stock Market Update – Week of 6/29/20
+date: 06-29-2020
+filters:
+   - lightbox
+lightbox: auto
+---
+
+Following are three charts I created to accompany the Investor's Business Daily article [The Raging Bull At New Highs](https://www.investors.com/market-trend/stock-market-update-the-raging-bull-at-new-highs/) written by [Mike Webster](http://twitter.com/mwebster1971), previously IBD Head Market Strategist, O'Neil Capital Portfolio Manager.
+
+![](chart1.png){height="500"}
+
+![](chart2.png){height="500"}
+
+![](chart3.png){height="500"}

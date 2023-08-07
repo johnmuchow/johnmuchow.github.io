@@ -1,0 +1,11 @@
+---
+title: "Release Notes"
+description: "{{< animate slideInRight 'Here's a brief log of website updates.' >}}"
+comments: false
+---
+
+## Version 1.0 | August 7th, 2023 {.animate__animated .animate__slideInLeft}
+
+* Initial release.
+* Website published using [Quarto](https://quarto.org).
+* Animation credit: [Mickaël Canouil](https://github.com/mcanouil): [Animate.css extension](https://github.com/mcanouil/quarto-animate)

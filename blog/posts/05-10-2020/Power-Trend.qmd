@@ -1,0 +1,46 @@
+---
+title: Power Trends and How to Spot Them on a Chart
+date: 05-10-2020
+filters:
+   - lightbox
+lightbox: auto
+
+---
+
+## What is a Power Trend
+
+Here are the primary considerations for a market to be considered in a [Power Trend](https://www.tradingview.com/script/CzyVIdMM-Power-Trend-Pro-Spot-Powerful-Uptrends/)
+
+- Low above the 21-day for 10 consecutive days.
+- 21-day above the 50-day for five days, without a break below the 50-day.
+- 50-day in an uptrend.
+
+If the criteria above are met, for a power trend to begin, it must be an up day. Once the 21-day crosses below the 50-day that is a sign the trend may be coming to an end. There are “circuit-breaker rules” that can end a PT before the 21-day to 50-day crossover.
+
+It should be noted, I am using the Nasdaq for all the charts that follow.
+
+## 2016 to 2018 Power Trend
+
+A sginficiant Power Trend began in November of 2016. This trend continued until February of 2018. That’s an impressive 60+ weeks!
+
+![](P1.png){height="500"}
+
+## Second Power Trend in 2018
+
+2018 saw a second Power Trend, starting at the end of May and going into October.
+
+![](P2.png){height="500"}
+
+## May of 2020, Power Trend
+
+Beginning on May 8th, yet another Power Trend.
+
+![](P3.png){height="500"}
+
+## More Power Trend Examples
+
+In addition to the dates above, here are three more Power Trends to research:
+
+Jan. 31, 2019, to May 22, 2019  
+July 3, 2019, to Aug. 14, 2019  
+Oct. 24, 2019, to Feb. 27, 2020  

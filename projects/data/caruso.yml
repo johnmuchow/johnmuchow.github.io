@@ -1,0 +1,16 @@
+- project: "Caruso Adaptive Relative Strength (CA|RS)"
+  path: https://www.carusoinsights.com/cars/
+  description: Unlike any other RS tool, CA|RS adapts to a stock’s volatility to identify the truest RS signal.
+
+- project: "Caruso Divergence Relative Strength (CD|RS)"
+  path: https://www.carusoinsights.com/cdrs/
+  description: Spot divergences like never before. Apply CD|RS to any stocks, benchmark and timeframe.
+
+- project: "Caruso Financial Dashboard (CF|DB)"
+  path: https://www.carusoinsights.com/cfdb/
+  description: Access to rich company financial and market data. Global data coverage.
+
+- project: "Caruso Market Dashboard (CM|DB)"
+  path: https://www.carusoinsights.com/cmdb/
+  description: Snapshot of key US market data, market internals (breadth), and economic statistics.
+

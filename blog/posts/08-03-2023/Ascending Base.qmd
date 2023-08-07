@@ -1,0 +1,18 @@
+---
+title: Ascending Base Pattern
+date: 08-03-2023
+filters:
+   - lightbox
+lightbox: auto
+---
+
+An ascending base has the following characteristics:
+
+▪ 3 pullbacks  
+▪ 10% to 20% on each  
+▪ Higher highs and higher lows  
+
+The buy point is where the price reaches a new high after the third pullback.
+
+![](ascending-base.png){height="500"}
+

@@ -1,0 +1,19 @@
+---
+title: UPST and NVDA Technical Analysis
+date: 11-20-2021
+filters:
+   - lightbox
+lightbox: auto
+---
+
+I’ve annotated two charts of Upstart (UPST) and Nvidia (NVDA), highlighting various technical patterns.
+
+## NVDA
+
+![](NVDA.jpg){height="500"}
+
+## UPST
+![](UPST.jpg){height="500"}
+
+
+

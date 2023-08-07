@@ -1,0 +1,31 @@
+- project: "Python Candlestick Pattern Matching"
+  path: https://github.com/johnmuchow/Python-Candlestick-Pattern-Matching
+  tech: Python, Streamlit
+  description: |
+    This project scans all the symbols in the Nasdaq 100 and S&P 500 for candlestick patterns. 
+
+- project: "Net-Highs-Net-Lows"
+  path: https://github.com/johnmuchow/Net-Highs-Net-Lows
+  tech: Python
+  description: |
+    Use Python and Yahoo Finance APIs to calculate Nasdaq net highs/lows.
+
+- project: "Animated Appbar"
+  path: https://github.com/johnmuchow/animated_appbar
+  tech: Flutter
+  description: |
+    Create an animated AppBar that includes animation of both a logo and included text.
+
+- project: "Stock Tracker"
+  path: https://github.com/johnmuchow/stock_tracker
+  tech: Flutter
+  description: |
+    Track stocks for multiple users, using Cloud Firestore on the backend.
+
+- project: "Position Size Calculator"
+  path: https://github.com/johnmuchow/Position-Size-Calculator
+  tech: Thinkscript
+  description: |
+    Position size calculator written in thinkscript.
+
+ 

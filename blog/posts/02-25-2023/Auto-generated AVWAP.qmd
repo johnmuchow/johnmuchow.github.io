@@ -1,0 +1,18 @@
+---
+title: Historical Analysis of AVWAP Gap Ups
+date: 02-25-2023
+filters:
+   - lightbox
+lightbox: auto
+---
+
+I wrote a TradingView indicator to auto-detect Average Volume Weighted Average Price (AVWAP) gap ups. This historical analysis looks for specific entry criteria based on [@Alphatrends](https://twitter.com/alphatrends) book, Anchored VWAP.
+
+▪ Closes below AVWAP (pullback)  
+▪ Lows above AVWAP (rally back above)  
+
+This same concept applies on multiple timeframes.
+
+![](chart1.jpg){height="500"}
+
+![](chart2.jpg){height="500"}

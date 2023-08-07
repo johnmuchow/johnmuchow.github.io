@@ -1,0 +1,13 @@
+---
+title: Telltale Signs of a Market Correction
+date: 09-23-2020
+filters:
+   - lightbox
+lightbox: auto
+---
+
+[David Ryan](https://twitter.com/dryan310), 3 time U.S Investing Champion 1985, 1986, 1987 recently walked through a number of clues that may indicate the market is in a correction. 
+
+Below is an annotated chart of QQQ highlighting key points along with additional notes as it relates to the moving averages and RS Line.
+
+![](market-correction.png){height="500"}
