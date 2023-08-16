@@ -1,0 +1,40 @@
+---
+title: Tape Reading and Market Tactics
+subtitle: Techincal Analysis Hasn't Changed in 90+ Years
+date: 08-16-2023
+filters:
+   - lightbox
+lightbox: auto
+twitter-card:
+  description: "Techincal Analysis Hasn't Changed in 90+ Years"
+  image: Chart_of_American_Can_1930_Twitter.png
+---
+
+::: columns
+
+::: {.column width="60%"}
+![](Chart_of_American_Can_1930.png){height="600"}
+:::
+
+::: {.column width="40%"}
+The book Tape Reading and Market Tactics by Humphrey B. Neill is a classic text on technical analysis and trading tactics. 
+
+Originally published in 1930, it provides insights that are still relevant today for any trader looking to understand market dynamics and identify trading opportunities.
+
+The chart of American Can is from 1930, notice the volume and corresponding price action, day by day.
+:::
+
+:::
+
+
+
+The screenshot that follows is highlighted text from the book. The technical concepts described are still applicable today.
+
+![](quotes.png){height="500"}
+
+
+
+
+<!-- ::: {.column-margin}
+   This content will appear in the margin!
+::: -->
