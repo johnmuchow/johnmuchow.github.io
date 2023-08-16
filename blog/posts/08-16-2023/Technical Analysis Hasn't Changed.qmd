@@ -1,13 +1,10 @@
 ---
 title: Tape Reading and Market Tactics
-subtitle: Techincal Analysis Hasn't Changed in 90+ Years
+subtitle: Technical Analysis Hasn't Changed in 90+ Years
 date: 08-16-2023
 filters:
    - lightbox
 lightbox: auto
-twitter-card:
-  description: "Techincal Analysis Hasn't Changed in 90+ Years"
-  image: Chart_of_American_Can_1930_Twitter.png
 ---
 
 ::: columns
