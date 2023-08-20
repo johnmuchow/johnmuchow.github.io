@@ -6,7 +6,7 @@
   </url>
   <url>
     <loc>/projects/projects.html</loc>
-    <lastmod>2023-08-16T17:44:05.736Z</lastmod>
+    <lastmod>2023-08-20T00:57:34.017Z</lastmod>
   </url>
   <url>
     <loc>/release_notes.html</loc>
@@ -106,10 +106,14 @@
   </url>
   <url>
     <loc>/blog/blog.html</loc>
-    <lastmod>2023-08-16T18:13:49.461Z</lastmod>
+    <lastmod>2023-08-20T00:57:33.204Z</lastmod>
   </url>
   <url>
     <loc>/books-articles/books-articles.html</loc>
     <lastmod>2023-08-16T17:44:15.217Z</lastmod>
+  </url>
+  <url>
+    <loc>/python/python.html</loc>
+    <lastmod>2023-08-20T00:57:24.962Z</lastmod>
   </url>
 </urlset>

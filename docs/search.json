@@ -425,5 +425,12 @@
     "title": " Writing",
     "section": "Technical Editor",
     "text": "Technical Editor\nI was technical editor for the following books. This work included proofreading content and testing/rewriting programming examples.\n\niPhone Developer’s Cookbook\n\niPhone SDK Development\n\nCore JavaServer Faces\n\nNetBeans IDE"
+  },
+  {
+    "objectID": "python/python.html",
+    "href": "python/python.html",
+    "title": " Python Projects",
+    "section": "",
+    "text": "Technical analysis with Python, Jupyter Notebooks and educational content. Coming soon…"
   }
 ]

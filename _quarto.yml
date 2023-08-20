@@ -31,6 +31,8 @@ website:
       file: blog/blog.qmd
     - text: Projects
       file: projects/projects.qmd
+    - text: Python
+      file: python/python.qmd
     - text: DevRel
       file: devrel/devrel.qmd
     - text: Books-Articles

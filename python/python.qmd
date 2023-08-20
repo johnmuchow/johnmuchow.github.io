@@ -1,0 +1,10 @@
+---
+title: '<i class="bi bi-tools"></i> Python Projects'
+description: Python projects
+
+image: ""
+sidebar: false
+---
+
+Technical analysis with Python, Jupyter Notebooks and educational content. Coming soon...
+
