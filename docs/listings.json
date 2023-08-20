@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/python/python.html",
+    "items": []
+  },
+  {
     "listing": "/projects/projects.html",
     "items": []
   },
@@ -54,9 +58,5 @@
       "/blog/posts/05-14-2020/2020-Nasdaq-Correction-Versus-1998.html",
       "/blog/posts/05-10-2020/Power-Trend.html"
     ]
-  },
-  {
-    "listing": "/python/python.html",
-    "items": []
   }
 ]

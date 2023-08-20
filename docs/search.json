@@ -14,6 +14,20 @@
     "text": "CurrentmFoundrySun MicrosystemsNokiaVignette\n\n\nMy current work includes writing many technical indicators, both open/closed source for the TradingView platform. I’ve also written many how-to articles on TradingView’s proprietary language, Pine Script.\nI’ve also written applications and tutorials based on technical analysis concepts published by Investor’s Business Daily. In addition, I wrote several applications for TD Ameritrade’s ThinkOrSwim platform.\n\n\nI was the developer relations lead for mFoundry. mFoundry was an early player in the mobile payments space. The platform was called Mojax, short for Mobile Ajax. Mojax was a framework that leveraged the technologies that make AJAX a compelling platform for web development (JavaScript, CSS and XML) and extended the concepts to build mobile applications.\nMojax Wins Best Mobile Developer Tool\nOne huge milestone while evangelizing Mojax was winning the Jolt award for the best mobile developer platform. For those unfamiliar with the Jolt award, Dr. Dobb’s Excellence in Programming Award, was given to individuals or teams that:\n\n“made significant contributions to the advancement of software development.”\n\n\n\n\n\n\n\n\n\n\nBased on my subject matter expertise with J2ME - read more about my J2ME book Core J2ME - I was approached by Sun Microsystems to join their team as a Sr. Software Architect and developer advocate for all mobile developer tools. All tools were built on the NetBeans platform. NetBeans has since been acquired by Apache.org\n\n\nBased on my work (at the time) with J2ME and my mobile developer book - Core J2ME - Nokia inquired if I would join their developer relations team to help design, build and grow their developer community.\nI presented at many developer events and wrote numerous tutorials for their developer community, known as Forum Nokia. I also helped to build relationships with third-party developers interested in designing and developing games for Nokia devices.\n\n\nFrom 1998 to late 2000, I was a Sr. Developer Trainer and Partner Integration Lead for Vignette. Vignette was a web framework built on JavaServer Pages designed to create large scale Content Management Systems (CMS).\nI was also the Train-the-Trainer Program Manager, working with consultants and companies around the globe to educate and evangelize Vignette’s developer tools."
   },
   {
+    "objectID": "python/python.html",
+    "href": "python/python.html",
+    "title": " Python Projects",
+    "section": "",
+    "text": "Technical analysis with Python, Jupyter Notebooks and educational content. Here are a few projects to get started. More coming soon…"
+  },
+  {
+    "objectID": "python/python.html#github",
+    "href": "python/python.html#github",
+    "title": " Python Projects",
+    "section": " Github",
+    "text": "Github\n\n\n\n\n\n\nProject\n\n\nDescription\n\n\n\n\n\n\nPython Candlestick Pattern Matching\n\n\nThis project scans all the symbols in the Nasdaq 100 and S&P 500 for candlestick patterns. \n\n\n\n\nNet-Highs-Net-Lows\n\n\nUse Python and Yahoo Finance APIs to calculate Nasdaq net highs/lows. \n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "projects/projects.html",
     "href": "projects/projects.html",
     "title": " Software Projects",
@@ -119,18 +133,18 @@
     "text": "Portfolio\nThis website is a portfolio covering much of my work in software development. My current focus is technical analysis and design/development of custom indicators for TradingView."
   },
   {
-    "objectID": "index.html#blog---technical-analysis-educational-content",
-    "href": "index.html#blog---technical-analysis-educational-content",
-    "title": "John Muchow - Portfolio",
-    "section": "Blog - Technical Analysis & Educational Content",
-    "text": "Blog - Technical Analysis & Educational Content\nGiven my years of experience working with various software tools, creating custom chart annotations comes easy. One of my earliest forays into this area was creating charts to accompany Mike Webster’s Stock Market Update column for Investor’s Business Daily. Mike was previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager. Mike was a William O’Neil protege. You can view several of these annotations in the list below.\nI’ve also included content gathered from various blogs I’ve written over the years as well as more recent content that I’ve started to publish.\n\n\n\nVisit the technical analysis & educational content blog for a complete list of all posts."
-  },
-  {
     "objectID": "index.html#technical-indicators",
     "href": "index.html#technical-indicators",
     "title": "John Muchow - Portfolio",
     "section": "Technical Indicators",
     "text": "Technical Indicators\nI’ve had the great fortune to design and build custom trading tools with two professional traders, both who’ve competed in the U.S. Investing Championship.\n\nMatt Caruso\nMatt is a professional trader who had a 346% return in the 2020 U.S. Investing Championship. I did all the software design and development for Matt’s Growth Investor Charting Package:\n▪ Caruso Adaptive Relative Strength (CA|RS)\n▪ Caruso Divergence Relative Strength (CD|RS)\n▪ Caruso Financial Dashboard (CF|DB)\n▪ Caruso Market Dashboard (CM|DB)\n\n\n\nDavid Ryan\nDavid is a three time U.S Investing Champion: 1985, 1986, 1987. David was a Portfolio Manager at O’Neil & Co and worked directly with William O’Neil for many years. David and I collaborated on several custom indicators:\n▪ Ants — Momentum, Volume and Price (MVP) - In-depth analysis of momentum, volume & price action.\n▪ Multi-Timeframe Trend Analysis — Trend Boxes - View higher timeframe trend data all within one chart.\n\n\nTop Ranking TradingView Indicators\nMany of my TradingView indicators are quite popular, here are a few top-ranking tools:\n▪ RS Line - Gauge Performance vs Index\n▪ Power Trend Pro — Spot Powerful Uptrends\n▪ Darvas Box Theory — Tracking Uptrends\n▪ Earnings, Sales & Volume Dashboard\n▪ Moving Averages For All Timeframes\nHere’s more details on all my TradingView indicators"
+  },
+  {
+    "objectID": "index.html#blog---technical-analysis-educational-content",
+    "href": "index.html#blog---technical-analysis-educational-content",
+    "title": "John Muchow - Portfolio",
+    "section": "Blog - Technical Analysis & Educational Content",
+    "text": "Blog - Technical Analysis & Educational Content\nGiven my years of experience working with various software tools, creating custom chart annotations comes easy. One of my earliest forays into this area was creating charts to accompany Mike Webster’s Stock Market Update column for Investor’s Business Daily. Mike was previously IBD Head Market Strategist, O’Neil Capital Portfolio Manager. Mike was a William O’Neil protege. You can view several of these annotations in the list below.\nI’ve also included content gathered from various blogs I’ve written over the years as well as more recent content that I’ve started to publish.\n\n\n\nVisit the technical analysis & educational content blog for a complete list of all posts."
   },
   {
     "objectID": "blog/posts/06-29-2020/IBD Stock Market Update - Week of 6:29:20.html",
@@ -425,19 +439,5 @@
     "title": " Writing",
     "section": "Technical Editor",
     "text": "Technical Editor\nI was technical editor for the following books. This work included proofreading content and testing/rewriting programming examples.\n\niPhone Developer’s Cookbook\n\niPhone SDK Development\n\nCore JavaServer Faces\n\nNetBeans IDE"
-  },
-  {
-    "objectID": "python/python.html",
-    "href": "python/python.html",
-    "title": " Python Projects",
-    "section": "",
-    "text": "Technical analysis with Python, Jupyter Notebooks and educational content. Here are a few projects to get started. More coming soon…"
-  },
-  {
-    "objectID": "python/python.html#github",
-    "href": "python/python.html#github",
-    "title": " Python Projects",
-    "section": " Github",
-    "text": "Github\n\n\n\n\n\n\nProject\n\n\nDescription\n\n\n\n\n\n\nPython Candlestick Pattern Matching\n\n\nThis project scans all the symbols in the Nasdaq 100 and S&P 500 for candlestick patterns. \n\n\n\n\nNet-Highs-Net-Lows\n\n\nUse Python and Yahoo Finance APIs to calculate Nasdaq net highs/lows. \n\n\n\n\n\n\nNo matching items"
   }
 ]
