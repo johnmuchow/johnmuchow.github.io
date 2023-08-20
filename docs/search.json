@@ -431,6 +431,13 @@
     "href": "python/python.html",
     "title": " Python Projects",
     "section": "",
-    "text": "Technical analysis with Python, Jupyter Notebooks and educational content. Coming soon…"
+    "text": "Technical analysis with Python, Jupyter Notebooks and educational content. Here are a few projects to get started. More coming soon…"
+  },
+  {
+    "objectID": "python/python.html#github",
+    "href": "python/python.html#github",
+    "title": " Python Projects",
+    "section": " Github",
+    "text": "Github\n\n\n\n\n\n\nProject\n\n\nDescription\n\n\n\n\n\n\nPython Candlestick Pattern Matching\n\n\nThis project scans all the symbols in the Nasdaq 100 and S&P 500 for candlestick patterns. \n\n\n\n\nNet-Highs-Net-Lows\n\n\nUse Python and Yahoo Finance APIs to calculate Nasdaq net highs/lows. \n\n\n\n\n\n\nNo matching items"
   }
 ]

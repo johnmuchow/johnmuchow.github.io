@@ -1,10 +1,31 @@
 ---
 title: '<i class="bi bi-tools"></i> Python Projects'
 description: Python projects
+listing: 
+  - id: github-listings
+    contents: github.yml
+    type: table
+    sort-ui: false
+    filter-ui: false
+    categories: false
+    fields: 
+    - project
+    - description
+    field-links:
+    - project
+    field-display-names:
+      project: Project
+      description: Description
+      tech: Technology
 
 image: ""
 sidebar: false
 ---
 
-Technical analysis with Python, Jupyter Notebooks and educational content. Coming soon...
+Technical analysis with Python, Jupyter Notebooks and educational content. Here are a few projects to get started. More coming soon...
+
+## <i class="bi bi-github"></i> Github
+
+::: {#github-listings}
+:::
 

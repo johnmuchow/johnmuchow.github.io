@@ -1,0 +1,11 @@
+- project: "Python Candlestick Pattern Matching"
+  path: https://github.com/johnmuchow/Python-Candlestick-Pattern-Matching
+  tech: Python, Streamlit
+  description: |
+    This project scans all the symbols in the Nasdaq 100 and S&P 500 for candlestick patterns. 
+
+- project: "Net-Highs-Net-Lows"
+  path: https://github.com/johnmuchow/Net-Highs-Net-Lows
+  tech: Python
+  description: |
+    Use Python and Yahoo Finance APIs to calculate Nasdaq net highs/lows.
